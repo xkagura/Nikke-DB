@@ -1,2 +1,2 @@
-# Nikke-Assistant
-Database for Nikke Assistant - an app for Nikke players
+# Nikke-DB
+A database for my app Nikke-Assistant.
