@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/filelist.txt
 https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Databases/character_database.json
 https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Databases/nikke_database.json
 https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Localizations/app_localization_en.json
