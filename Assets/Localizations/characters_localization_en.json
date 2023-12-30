@@ -1,9 +1,13 @@
 {
-  "2b": {
+  "unknown": {
+    "Name": "Unknown",
+    "Description": "Unknown"
+  },
+  "yorha_2b": {
     "Name": "2B",
     "Description": "A taciturn blade of silent resolve. YoRHa No. 2 Type B android."
   },
-  "a2": {
+  "yorha_a2": {
     "Name": "A2",
     "Description": "A hate-filled vortex with a painful past. YoRHa No.2 Type A android."
   },

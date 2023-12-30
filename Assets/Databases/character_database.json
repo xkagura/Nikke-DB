@@ -1,6 +1,20 @@
 {
-  "2b": {
-    "Id": "2b",
+  "unknown": {
+    "Id": "unknown",
+    "Rarity": "Unknown",
+    "ClassType": "Unknown",
+    "ElementType": "Unknown",
+    "WeaponType": "Unknown",
+    "ManufacturerType": "Unknown",
+    "SquadType": "Unknown",
+    "BurstStage": "Unknown",
+    "Tier": "Unknown",
+    "ImageUri": null,
+    "LargeImageUri": null,
+    "IsCollabCharacter": false
+  },
+  "yorha_2b": {
+    "Id": "yorha_2b",
     "Rarity": "SSR",
     "ClassType": "Defender",
     "ElementType": "Fire",
@@ -8,10 +22,13 @@
     "ManufacturerType": "Abnormal",
     "SquadType": "YoRHa",
     "BurstStage": "I",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": true
   },
-  "a2": {
-    "Id": "a2",
+  "yorha_a2": {
+    "Id": "yorha_a2",
     "Rarity": "SSR",
     "ClassType": "Attacker",
     "ElementType": "Fire",
@@ -19,6 +36,9 @@
     "ManufacturerType": "Abnormal",
     "SquadType": "YoRHa",
     "BurstStage": "III",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": true
   },
   "admi": {
@@ -30,6 +50,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Triangle",
     "BurstStage": "II",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "alice": {
@@ -41,6 +64,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Unlimited",
     "BurstStage": "III",
+    "Tier": "SS",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "anchor": {
@@ -52,6 +78,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Aegis",
     "BurstStage": "I",
+    "Tier": "Unknown",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "anis": {
@@ -63,6 +92,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Counters",
     "BurstStage": "II",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "anis_sparkling_summer": {
@@ -74,6 +106,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Counters",
     "BurstStage": "III",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "anne_miracle_fairy": {
@@ -85,6 +120,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "RecallAndRelease",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "aria": {
@@ -96,6 +134,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "PrimaDonna",
     "BurstStage": "II",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "belorta": {
@@ -107,6 +148,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "TheCarronades",
     "BurstStage": "II",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "biscuit": {
@@ -118,6 +162,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "HappyZoo",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "blanc": {
@@ -129,6 +176,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "SevenSevenSeven",
     "BurstStage": "II",
+    "Tier": "SS",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "brid": {
@@ -140,6 +190,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "InfinityRail",
     "BurstStage": "III",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "centi": {
@@ -151,6 +204,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "MightyTools",
     "BurstStage": "II",
+    "Tier": "S",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "cocoa": {
@@ -162,6 +218,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "MaidForYou",
     "BurstStage": "I",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "crow": {
@@ -173,6 +232,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Exotic",
     "BurstStage": "III",
+    "Tier": "F",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "d": {
@@ -184,6 +246,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "PerilousSiege",
     "BurstStage": "III",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "delta": {
@@ -195,6 +260,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "TheScouts",
     "BurstStage": "II",
+    "Tier": "F",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "diesel": {
@@ -206,6 +274,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "InfinityRail",
     "BurstStage": "II",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "dolla": {
@@ -217,6 +288,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Talentum",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "dorothy": {
@@ -228,6 +302,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Inherit",
     "BurstStage": "I",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "drake": {
@@ -239,6 +316,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Matis",
     "BurstStage": "III",
+    "Tier": "S",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "emma": {
@@ -250,6 +330,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Absolute",
     "BurstStage": "I",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "epinel": {
@@ -261,6 +344,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Nepenthe",
     "BurstStage": "III",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "ether": {
@@ -272,6 +358,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "MMR",
     "BurstStage": "I",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "eunhwa": {
@@ -283,6 +372,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Absolute",
     "BurstStage": "II",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "exia": {
@@ -294,6 +386,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Protocol",
     "BurstStage": "I",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "folkwang": {
@@ -305,6 +400,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Nepenthe",
     "BurstStage": "II",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "frima": {
@@ -316,6 +414,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "CafeSweety",
     "BurstStage": "I",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "guillotine": {
@@ -327,6 +428,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Extrinsic",
     "BurstStage": "III",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "guilty": {
@@ -338,6 +442,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "RealKindness",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "harran": {
@@ -349,6 +456,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Inherit",
     "BurstStage": "III",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "helm": {
@@ -360,6 +470,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Aegis",
     "BurstStage": "III",
+    "Tier": "S",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "helm_aquamarine": {
@@ -371,6 +484,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Aegis",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "himeno": {
@@ -382,6 +498,9 @@
     "ManufacturerType": "Abnormal",
     "SquadType": "DevilHunter",
     "BurstStage": "II",
+    "Tier": "Unknown",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": true
   },
   "idoll_flower": {
@@ -393,6 +512,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Replace",
     "BurstStage": "I",
+    "Tier": "F",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "idoll_ocean": {
@@ -404,6 +526,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Replace",
     "BurstStage": "I",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "idoll_sun": {
@@ -415,6 +540,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Replace",
     "BurstStage": "III",
+    "Tier": "F",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "isabel": {
@@ -426,6 +554,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Inherit",
     "BurstStage": "III",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "jackal": {
@@ -437,6 +568,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Exotic",
     "BurstStage": "I",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "julia": {
@@ -448,6 +582,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "MasterHand",
     "BurstStage": "III",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "laplace": {
@@ -459,6 +596,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Matis",
     "BurstStage": "III",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "liter": {
@@ -470,6 +610,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "MightyTools",
     "BurstStage": "I",
+    "Tier": "SS",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "ludmilla": {
@@ -481,6 +624,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Unlimited",
     "BurstStage": "I",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "ludmilla_winter_owner": {
@@ -492,6 +638,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Unlimited",
     "BurstStage": "III",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "maiden": {
@@ -503,6 +652,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Exotic",
     "BurstStage": "III",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "makima": {
@@ -514,6 +666,9 @@
     "ManufacturerType": "Abnormal",
     "SquadType": "DevilHunter",
     "BurstStage": "II",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": true
   },
   "marciana": {
@@ -525,6 +680,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Academia",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "mary": {
@@ -536,6 +694,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Seraphim",
     "BurstStage": "I",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "mary_bay_goddess": {
@@ -547,6 +708,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Seraphim",
     "BurstStage": "I",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "mast": {
@@ -558,6 +722,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Aegis",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "maxwell": {
@@ -569,6 +736,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Matis",
     "BurstStage": "III",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "mica": {
@@ -580,6 +750,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "TheCarronades",
     "BurstStage": "I",
+    "Tier": "F",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "mica_snow_buddy": {
@@ -591,6 +764,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "TheCarronades",
     "BurstStage": "I",
+    "Tier": "Unknown",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "mihara": {
@@ -602,6 +778,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Wardress",
     "BurstStage": "III",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "milk": {
@@ -613,6 +792,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "CafeSweety",
     "BurstStage": "I",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "miranda": {
@@ -624,6 +806,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "ACPU",
     "BurstStage": "I",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "modernia": {
@@ -635,6 +820,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Heretic",
     "BurstStage": "III",
+    "Tier": "SS",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "n102": {
@@ -645,7 +833,10 @@
     "WeaponType": "RL",
     "ManufacturerType": "Missilis",
     "SquadType": "RecallAndRelease",
-    "BurstStage": "Unknown",
+    "BurstStage": "I",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "naga": {
@@ -657,6 +848,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "DazzlingPearl",
     "BurstStage": "II",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "neon": {
@@ -668,6 +862,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Counters",
     "BurstStage": "I",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "neon_blue_ocean": {
@@ -679,6 +876,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Counters",
     "BurstStage": "III",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "nero": {
@@ -690,6 +890,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "HappyZoo",
     "BurstStage": "II",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "neve": {
@@ -701,6 +904,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Unlimited",
     "BurstStage": "III",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "nihilister": {
@@ -712,6 +918,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Heretic",
     "BurstStage": "II",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "noah": {
@@ -723,6 +932,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Inherit",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "noir": {
@@ -734,6 +946,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "SevenSevenSeven",
     "BurstStage": "III",
+    "Tier": "SS",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "noise": {
@@ -745,6 +960,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "PrimaDonna",
     "BurstStage": "I",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "novel": {
@@ -756,6 +974,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Protocol",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "pascal": {
@@ -767,6 +988,9 @@
     "ManufacturerType": "Abnormal",
     "SquadType": "MachineLifeform",
     "BurstStage": "I",
+    "Tier": "Unknown",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": true
   },
   "pepper": {
@@ -778,6 +1002,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Seraphim",
     "BurstStage": "I",
+    "Tier": "S",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "poli": {
@@ -789,6 +1016,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "ACPU",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "power": {
@@ -800,6 +1030,9 @@
     "ManufacturerType": "Abnormal",
     "SquadType": "DevilHunter",
     "BurstStage": "III",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": true
   },
   "privaty": {
@@ -811,6 +1044,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Triangle",
     "BurstStage": "III",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "product_08": {
@@ -822,6 +1058,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Replace",
     "BurstStage": "I",
+    "Tier": "F",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "product_12": {
@@ -833,6 +1072,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Replace",
     "BurstStage": "III",
+    "Tier": "F",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "product_23": {
@@ -844,6 +1086,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Replace",
     "BurstStage": "II",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "quency": {
@@ -855,6 +1100,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "RealKindness",
     "BurstStage": "II",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "quiry": {
@@ -866,6 +1114,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "ACPU",
     "BurstStage": "III",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "rapi": {
@@ -877,6 +1128,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Counters",
     "BurstStage": "III",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "rapunzel": {
@@ -888,6 +1142,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Pioneer",
     "BurstStage": "I",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "red_hood": {
@@ -899,6 +1156,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Goddess",
     "BurstStage": "P",
+    "Tier": "SSS",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "rei": {
@@ -910,6 +1170,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "SchoolCircle",
     "BurstStage": "I",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "rosanna": {
@@ -921,6 +1184,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "UnderworldQueen",
     "BurstStage": "I",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "rupee": {
@@ -932,6 +1198,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Talentum",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "rupee_winter_shopper": {
@@ -943,6 +1212,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Talentum",
     "BurstStage": "I",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "sakura": {
@@ -954,6 +1226,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "UnderworldQueen",
     "BurstStage": "I",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "scarlet": {
@@ -965,6 +1240,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Pioneer",
     "BurstStage": "III",
+    "Tier": "SS",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "signal": {
@@ -976,6 +1254,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "TheScouts",
     "BurstStage": "II",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "sin": {
@@ -987,6 +1268,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "RealKindness",
     "BurstStage": "II",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "snow_white": {
@@ -998,6 +1282,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Pioneer",
     "BurstStage": "III",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "snow_white_innocent_days": {
@@ -1009,6 +1296,9 @@
     "ManufacturerType": "Pilgrim",
     "SquadType": "Goddess",
     "BurstStage": "III",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "soda": {
@@ -1020,6 +1310,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "MaidForYou",
     "BurstStage": "I",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "soldier_eg": {
@@ -1031,6 +1324,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Replace",
     "BurstStage": "III",
+    "Tier": "F",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "soldier_fa": {
@@ -1042,6 +1338,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Replace",
     "BurstStage": "II",
+    "Tier": "F",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "soldier_ow": {
@@ -1053,6 +1352,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Replace",
     "BurstStage": "I",
+    "Tier": "F",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "soline": {
@@ -1064,6 +1366,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "InfinityRail",
     "BurstStage": "III",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "sugar": {
@@ -1075,6 +1380,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "CafeSweety",
     "BurstStage": "III",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "tia": {
@@ -1086,6 +1394,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "DazzlingPearl",
     "BurstStage": "I",
+    "Tier": "SPlus",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "tove": {
@@ -1097,6 +1408,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Unlimited",
     "BurstStage": "I",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "vesti": {
@@ -1108,6 +1422,9 @@
     "ManufacturerType": "Elysion",
     "SquadType": "Absolute",
     "BurstStage": "III",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "viper": {
@@ -1119,6 +1436,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Exotic",
     "BurstStage": "II",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "volume": {
@@ -1130,6 +1450,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "PrimaDonna",
     "BurstStage": "I",
+    "Tier": "A",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "yan": {
@@ -1141,6 +1464,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Talentum",
     "BurstStage": "I",
+    "Tier": "D",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "yulha": {
@@ -1152,6 +1478,9 @@
     "ManufacturerType": "Tetra",
     "SquadType": "Triangle",
     "BurstStage": "III",
+    "Tier": "B",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   },
   "yuni": {
@@ -1163,6 +1492,9 @@
     "ManufacturerType": "Missilis",
     "SquadType": "Wardress",
     "BurstStage": "II",
+    "Tier": "C",
+    "ImageUri": null,
+    "LargeImageUri": null,
     "IsCollabCharacter": false
   }
 }

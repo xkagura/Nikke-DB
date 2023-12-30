@@ -1,23 +1,73 @@
 {
+  "weapon_assault_rifle": {
+    "Id": "weapon_assault_rifle",
+    "WeaponType": "AR",
+    "ImageUri": null
+  },
+  "weapon_machine_gun": {
+    "Id": "weapon_machine_gun",
+    "WeaponType": "MG",
+    "ImageUri": null
+  },
+  "weapon_rocket_launcher": {
+    "Id": "weapon_rocket_launcher",
+    "WeaponType": "RL",
+    "ImageUri": null
+  },
+  "weapon_shotgun": {
+    "Id": "weapon_shotgun",
+    "WeaponType": "SG",
+    "ImageUri": null
+  },
+  "weapon_submachine_gun": {
+    "Id": "weapon_submachine_gun",
+    "WeaponType": "SMG",
+    "ImageUri": null
+  },
+  "weapon_sniper_rifle": {
+    "Id": "weapon_sniper_rifle",
+    "WeaponType": "SR",
+    "ImageUri": null
+  },
+  "attacker": {
+    "Id": "attacker",
+    "ClassType": "Attacker",
+    "ImageUri": null
+  },
+  "defender": {
+    "Id": "defender",
+    "ClassType": "Defender",
+    "ImageUri": null
+  },
+  "supporter": {
+    "Id": "supporter",
+    "ClassType": "Supporter",
+    "ImageUri": null
+  },
   "elysion": {
     "Id": "elysion",
-    "ManufacturerType": "Elysion"
+    "ManufacturerType": "Elysion",
+    "ImageUri": null
   },
   "missilis": {
     "Id": "missilis",
-    "ManufacturerType": "Missilis"
+    "ManufacturerType": "Missilis",
+    "ImageUri": null
   },
   "tetra": {
     "Id": "tetra",
-    "ManufacturerType": "Tetra"
+    "ManufacturerType": "Tetra",
+    "ImageUri": null
   },
   "pilgrim": {
     "Id": "pilgrim",
-    "ManufacturerType": "Pilgrim"
+    "ManufacturerType": "Pilgrim",
+    "ImageUri": null
   },
   "abnormal": {
     "Id": "abnormal",
-    "ManufacturerType": "Abnormal"
+    "ManufacturerType": "Abnormal",
+    "ImageUri": null
   },
   "777": {
     "Id": "777",
@@ -178,5 +228,67 @@
   "yorha": {
     "Id": "yorha",
     "SquadType": "YoRHa"
-  }
+  },
+  "gem": {
+    "Id": "gem",
+    "ImageUri": null
+  },
+  "credit": {
+    "Id": "credit",
+    "ImageUri": null
+  },
+  "credit_case_2h": {
+    "Id": "credit_case_2h",
+    "ImageUri": null
+  },
+  "cd_keys": [
+    {
+      "Key": "NIKKEPC",
+      "Rewards": {
+        "gem": 100
+      },
+      "Released": "2023-01-06T00:00:00",
+      "Expired": false
+    },
+    {
+      "Key": "NIKKEFOR2023",
+      "Rewards": {
+        "gem": 100
+      },
+      "Released": "2023-01-06T00:00:00",
+      "Expired": false
+    },
+    {
+      "Key": "NIKKE1104",
+      "Rewards": {
+        "credit_case_2h": 1
+      },
+      "Released": "2022-11-05T00:00:00",
+      "Expired": false
+    },
+    {
+      "Key": "NIKKE2023",
+      "Rewards": {
+        "gem": 100
+      },
+      "Released": "2022-12-15T00:00:00",
+      "Expired": false
+    },
+    {
+      "Key": "NIKKE777",
+      "Rewards": {
+        "gem": 100
+      },
+      "Released": "2022-11-05T00:00:00",
+      "Expired": false
+    },
+    {
+      "Key": "NIKKEFORYOU",
+      "Rewards": {
+        "credit_case_2h": 1
+      },
+      "Released": "2022-11-05T00:00:00",
+      "Expired": false
+    }
+  ]
 }
