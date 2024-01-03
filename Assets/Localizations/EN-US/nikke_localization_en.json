@@ -1,0 +1,259 @@
+{
+  "LangCode": "EN",
+  "Items": {
+    "weapon_assault_rifle": {
+      "Name": "Assault Rifle",
+      "Description": "Well-balanced weapon suitable in all kinds of situations.",
+      "Effects": [
+        "Deals {0}% of ATK as damage.",
+        "Deals {0}% damage when attacking core."
+      ]
+    },
+    "weapon_machine_gun": {
+      "Name": "Machine Gun",
+      "Description": "Its high ammo capacity and rapid-firing feature make it perfect for dealing with swarming enemies.",
+      "Effects": [
+        "Deals {0}% of ATK as damage.",
+        "Deals {0}% damage when attacking core."
+      ]
+    },
+    "weapon_rocket_launcher": {
+      "Name": "Rocket Launcher",
+      "Description": "Deals damage with a wide area of effect, great for attacking groups of enemies.",
+      "Effects": [
+        "Deals {0}% of ATK as damage.",
+        "Charge Time: 1 sec.",
+        "Full Charge Damage: {0}% of damage"
+      ]
+    },
+    "weapon_shotgun": {
+      "Name": "Shotgun",
+      "Description": "Fires multiple shots at once and is extremely powerful in close range.",
+      "Effects": [
+        "Deals {0}% of ATK as damage.",
+        "Deals {0}% damage when attacking core."
+      ]
+    },
+    "weapon_submachine_gun": {
+      "Name": "Submachine Gun",
+      "Description": "Its extreme rapid fire makes up for its relatively short range.",
+      "Effects": [
+        "Deals {0}% of ATK as damage.",
+        "Deals {0}% damage when attacking core."
+      ]
+    },
+    "weapon_sniper_rifle": {
+      "Name": "Sniper Rifle",
+      "Description": "High accuracy shooting from long range makes it perfect for targeting specific enemy parts.",
+      "Effects": [
+        "Deals {0}% of ATK as damage.",
+        "Charge Time: {0} sec.",
+        "Full Charge Damage: {0}% of damage."
+      ]
+    },
+    "attacker": {
+      "Name": "Attacker",
+      "Description": "An offensive class with high attack power that specializes in dispatching enemies."
+    },
+    "defender": {
+      "Name": "Defender",
+      "Description": "A defensive class that protect Nikkes to improve the survivability of the squad."
+    },
+    "supporter": {
+      "Name": "Supporter",
+      "Description": "A support class that assists Nikkes during combat with an assortment of special abilities."
+    },
+    "elysion": {
+      "Name": "Elysion",
+      "Description": "Holds the core belief that Nikkes are first-rate soldiers. They effectively function as a private military company."
+    },
+    "missilis": {
+      "Name": "Missilis",
+      "Description": "A pioneer in the high-tech industry. They actively implement cutting edge technology into Nikke armaments."
+    },
+    "tetra": {
+      "Name": "Tetra",
+      "Description": "An entertainment industry juggernaut in the Ark. To them, battle is but a form of entertainment."
+    },
+    "pilgrim": {
+      "Name": "Pilgrim",
+      "Description": "Nikkes that wander the surface fighting Raptures. Pilgrims are a complete mystery with unknown identities and objectives."
+    },
+    "abnormal": {
+      "Name": "Abnormal",
+      "Description": "A company that manages the very existence of individuals, as well as their social position. Its origin and true purpose lie behind the door."
+    },
+    "777": {
+      "Name": "777",
+      "Description": "A squad that works at Coin Rush, the Ark’s largest casino and entertainment center.\nCitizens who come here to put their luck to the test will get to experience the top-tier service on offer."
+    },
+    "absolute": {
+      "Name": "Absolute",
+      "Description": "The strongest squad Elysion has to offer possesses the finest weaponry and most extensive experience.\nThey are also called the Miracle Squad because not a single hair is out of place upon their return from any assignment."
+    },
+    "academia": {
+      "Name": "Academia",
+      "Description": "A Nikke squad specifically manufactured by Elysion for educational purposes after the company noticed the potential of M.M.R. Vocational School.\nThey are responsible for taking Nikkes that show promise and honing their skills so that they can reclaim the surface one day."
+    },
+    "acpu": {
+      "Name": "A.C.P.U.",
+      "Description": "A mobile patrol squad that is responsible for keeping the peace in the Ark.\nEven so, the public is not aware that they are Nikkes."
+    },
+    "aegis": {
+      "Name": "Aegis",
+      "Description": "A squad built for naval combat, whose members are capable swimmers. They own a warship named the “Admire,” which was captured from the Raptures.\nThe lack of open water in the subterranean Ark forces Aegis to conduct training exercises in the local swimming pool making them somewhat of a laughingstock.\n"
+    },
+    "cafe_sweety": {
+      "Name": "Cafe Sweety",
+      "Description": "Tetra’s problem-solving Squad. Despite the fact they can be easily found in the cafe, few people are aware of their true occupations outside the shop."
+    },
+    "counters": {
+      "Name": "Counters",
+      "Description": "A ragtag squad led by a rookie Commander who just graduated from the military academy.\nStationed in the Outpost, they take on all manner of assignments.\n"
+    },
+    "dazzling_pearl": {
+      "Name": "Dazzling Pearl",
+      "Description": "A Squad made up of M.M.R. Vocational School graduates.\nThey stood out in the midst of fierce competition and entered the graduating class, showcasing outstanding capabilities."
+    },
+    "devil_hunter": {
+      "Name": "Devil Hunter",
+      "Description": "A group of Devil Hunters working for the Public Safety bureau."
+    },
+    "exotic": {
+      "Name": "Exotic",
+      "Description": "A Nikke squad composed of ruffians from the slums at the outskirts of the Ark, the Outer Rim. As a contingency plan, all members must wear a choker that will self-destruct if deemed necessary."
+    },
+    "extrinsic": {
+      "Name": "Extrinsic",
+      "Description": "A special enforcement squad who puts down Irregulars. Their entire existence is shrouded in secrecy, and rumors of them run rampant amongst Nikkes."
+    },
+    "goddess": {
+      "Name": "Goddess",
+      "Description": "The Goddess of Victory. The hope of mankind.\nThe most formidable squad that lives up to its self-explanatory name."
+    },
+    "happy_zoo": {
+      "Name": "Happy Zoo",
+      "Description": "The Ark’s animal management squad.\nThey have incredible empathy for animals, and devote every fiber of their being to bettering the lives of animals.\nTheir greatest desire is to run wild in nature amongst the animals after reclaiming the surface."
+    },
+    "heretic": {
+      "Name": "Heretic",
+      "Description": "The betrayers of mankind, who are all elites of the Queen. Yet, they were once Nikkes."
+    },
+    "infinity_rail": {
+      "Name": "Infinity Rail",
+      "Description": "The railroad unit of the Ark.\nOperating and maintaining the train are their main responsibilities, along with the occasional repairs."
+    },
+    "inherit": {
+      "Name": "Inherit",
+      "Description": "The Pilgrims with the most advanced technology.\nThey fight to reclaim the surface, but not for humanity’s sake. As such they are both mankind’s last hope and biggest threat."
+    },
+    "machine_lifeform": {
+      "Name": "Machine Lifeform",
+      "Description": "Mechanical weapons.\nIt is an open secret that they are incapable of emotion, however..."
+    },
+    "maid_for_you": {
+      "Name": "Maid For You",
+      "Description": "A squad of domestic service workers developed by Tetra Line, aimed at improving the quality of human life. \nEach member has their own area of expertise, such as sweeping, cooking, and washing. Anyone who is an Ark citizen and requires assistance can apply for their services."
+    },
+    "master_hand": {
+      "Name": "Master Hand",
+      "Description": "The Central Government’s ceremonial guard.\nThey are musicians who preserve the musical legacy of the surface."
+    },
+    "matis": {
+      "Name": "Matis",
+      "Description": "An elite squad explicitly created for battle.\nThese Nikkes are built with most advanced tech in the Missilis and are referred to as heroes by the public."
+    },
+    "mighty_tools": {
+      "Name": "Mighty Tools",
+      "Description": "A construction support unit that is also referred to as Almighty Workers.\nThey will provide assistance in virtually every construction site inside the Ark."
+    },
+    "mmr": {
+      "Name": "M.M.R.",
+      "Description": "The Central Government's Ark weapon research unit, which utilizes Missilis technology. Its formal name is the Missilis Military Research Center, or M.M.R. for short."
+    },
+    "nepenthe": {
+      "Name": "Nepenthe",
+      "Description": "A recreational unit used by Tetra.\nThey are not intended for combat usage but rather for improving human’s quality of life."
+    },
+    "perilous_siege": {
+      "Name": "Perilous Siege",
+      "Description": "A clandestine squad of assassins who take out targets deemed a threat to the Ark and mankind.\nAfter an organization known as The Judges designates a target, the assigned Nikke first gathers intel on the target, then determines whether they are deserving of their punishment.\nAny error in judgment comes at the cost of that Nikke's life."
+    },
+    "pioneer": {
+      "Name": "Pioneer",
+      "Description": "Nikkes, who wander on the surface, are also called Pilgrims.\nWhilst they all stay on the surface for difference purposes, they have sword to protect humans."
+    },
+    "prima_donna": {
+      "Name": "Prima Donna",
+      "Description": "A hit music squad run by Tetra. Everyone in the squad is a massive superstar in their respective genre. They all exert a significant influence on pop culture, so the Central Government personally oversees them."
+    },
+    "protocol": {
+      "Name": "Protocol",
+      "Description": "A Squad that belongs to the Central Office of Strategic Services.\nThey gather intelligence in the Ark by acquiring it through hacker or on-site."
+    },
+    "real_kindness": {
+      "Name": "Real Kindess",
+      "Description": "A Squad made up of Nikkes who are held in the Rehabilitation Center, which, despite its name, is closer to a prison that houses vicious criminals.\nAll of its members are experiments of the Missilis Industry, and each has their own unique ability. Not all of them are guilty of atrocious crimes. Some of them have been detained merely because of their presumed danger to society."
+    },
+    "recall_and_release": {
+      "Name": "Recall & Release",
+      "Description": "A Squad that is part of the Memory Control Lab.\nThey were formed in order to study how a Nikke’s memory can be controlled. More often than not, Nikkes who are sent there have their memories erased."
+    },
+    "replace": {
+      "Name": "Replace",
+      "Description": "The Central Government’s mass-produced Nikkes manufactured by the Big Three.\nThey are used to both prevent and suppress terrorist attacks."
+    },
+    "school_circle": {
+      "Name": "School Circle",
+      "Description": "A group of students from the M.M.R. Vocational School, an educational institution established to improve Nikke’s performance.\nThis squad is comprised of students who have excelled in their studies, and its members are placed in genuine combat situations outside of school hours."
+    },
+    "seraphim": {
+      "Name": "Seraphim",
+      "Description": "Tetra’s medical support squad, full of caring and professional medical staff."
+    },
+    "talentum": {
+      "Name": "Talentum",
+      "Description": "A joint merchant squad formed at the urging of the Central Government. Merchants from difference fields all host promotional activities in an attempt to kick start the Ark’s economy."
+    },
+    "the_carronades": {
+      "Name": "The Carronades",
+      "Description": "An artillery unit that always goes in guns blazing.\nThey are responsible for reclaiming any facilities occupied by Raptures. Once the coast is clear, they then report back to HQ."
+    },
+    "the_scouts": {
+      "Name": "The Scouts",
+      "Description": "A surface reconnaissance squad who always remains at the forefront on assignments.\nCommunication, reconnaissance and remaining alert are their fortes."
+    },
+    "triangle": {
+      "Name": "Triangle",
+      "Description": "The squad responsible for maintaining order in the Ark.\nThey act for the Central Government and keep Ark citizens safe from various threats. Even so, the public is not aware that they are a Nikkes."
+    },
+    "underworld_queen": {
+      "Name": "Underworld Queen",
+      "Description": "A squad formed by Tetra to oversee the criminal underworld in the Ark.\nIts members run the biggest gangs in the ark: Seimeikai, Peony Association, and Hedonia."
+    },
+    "unlimited": {
+      "Name": "Unlimited",
+      "Description": "A special squad that explores and defends the northern area.\nThey rescue Nikkes, who have gotten lost, and guide them back to the Ark."
+    },
+    "wardress": {
+      "Name": "Wardress",
+      "Description": "A special squad established for the sake of capturing Raptures.\nThey venture onto the surface to capture Raptures alive and have them sent back to the research labs in the Ark."
+    },
+    "yorha": {
+      "Name": "YoRHa",
+      "Description": "One of the military units fighting to take back the planet.\nMembers of the YoRHa refer to each other by their codenames instead of their actual names."
+    },
+    "gem": {
+      "Name": "Gem",
+      "Description": "Highly-valued gems. They will never diminish in value even when the world meets its demise. Free Gems are consumed first during recruitment and shopping. If there are insufficient Free Gems, Paid Gems are used automatically instead."
+    },
+    "credit": {
+      "Name": "Credit",
+      "Description": "Universal currency in the Ark. In short, money."
+    },
+    "credit_case_2h": {
+      "Name": "Credit Case (2H)",
+      "Description": "A case full of Credit Devices. Credits are typically stored inside chips. They can, however, also be transferred into one of these stand-alone devices, where they can be used as currency. While their efficiency leaves more to be desired, you can't ignore the satisfaction you get from using it. Use it to obtain a set amount of Credits equivalent to the amount of time stated on the label. The number of Credits given will also vary depending on Outpost Defense Level."
+    }
+  }
+}

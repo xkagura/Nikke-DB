@@ -1,294 +1,296 @@
 {
-  "weapon_assault_rifle": {
-    "Id": "weapon_assault_rifle",
-    "WeaponType": "AR",
-    "ImageUri": null
-  },
-  "weapon_machine_gun": {
-    "Id": "weapon_machine_gun",
-    "WeaponType": "MG",
-    "ImageUri": null
-  },
-  "weapon_rocket_launcher": {
-    "Id": "weapon_rocket_launcher",
-    "WeaponType": "RL",
-    "ImageUri": null
-  },
-  "weapon_shotgun": {
-    "Id": "weapon_shotgun",
-    "WeaponType": "SG",
-    "ImageUri": null
-  },
-  "weapon_submachine_gun": {
-    "Id": "weapon_submachine_gun",
-    "WeaponType": "SMG",
-    "ImageUri": null
-  },
-  "weapon_sniper_rifle": {
-    "Id": "weapon_sniper_rifle",
-    "WeaponType": "SR",
-    "ImageUri": null
-  },
-  "attacker": {
-    "Id": "attacker",
-    "ClassType": "Attacker",
-    "ImageUri": null
-  },
-  "defender": {
-    "Id": "defender",
-    "ClassType": "Defender",
-    "ImageUri": null
-  },
-  "supporter": {
-    "Id": "supporter",
-    "ClassType": "Supporter",
-    "ImageUri": null
-  },
-  "elysion": {
-    "Id": "elysion",
-    "ManufacturerType": "Elysion",
-    "ImageUri": null
-  },
-  "missilis": {
-    "Id": "missilis",
-    "ManufacturerType": "Missilis",
-    "ImageUri": null
-  },
-  "tetra": {
-    "Id": "tetra",
-    "ManufacturerType": "Tetra",
-    "ImageUri": null
-  },
-  "pilgrim": {
-    "Id": "pilgrim",
-    "ManufacturerType": "Pilgrim",
-    "ImageUri": null
-  },
-  "abnormal": {
-    "Id": "abnormal",
-    "ManufacturerType": "Abnormal",
-    "ImageUri": null
-  },
-  "777": {
-    "Id": "777",
-    "SquadType": "SevenSevenSeven"
-  },
-  "absolute": {
-    "Id": "absolute",
-    "SquadType": "Absolute"
-  },
-  "academia": {
-    "Id": "academia",
-    "SquadType": "Academia"
-  },
-  "acpu": {
-    "Id": "acpu",
-    "SquadType": "ACPU"
-  },
-  "aegis": {
-    "Id": "aegis",
-    "SquadType": "Aegis"
-  },
-  "cafe_sweety": {
-    "Id": "cafe_sweety",
-    "SquadType": "CafeSweety"
-  },
-  "counters": {
-    "Id": "counters",
-    "SquadType": "Counters"
-  },
-  "dazzling_pearl": {
-    "Id": "dazzling_pearl",
-    "SquadType": "DazzlingPearl"
-  },
-  "devil_hunter": {
-    "Id": "devil_hunter",
-    "SquadType": "DevilHunter"
-  },
-  "exotic": {
-    "Id": "exotic",
-    "SquadType": "Exotic"
-  },
-  "extrinsic": {
-    "Id": "extrinsic",
-    "SquadType": "Extrinsic"
-  },
-  "goddess": {
-    "Id": "goddess",
-    "SquadType": "Goddess"
-  },
-  "happy_zoo": {
-    "Id": "happy_zoo",
-    "SquadType": "HappyZoo"
-  },
-  "heretic": {
-    "Id": "heretic",
-    "SquadType": "Heretic"
-  },
-  "infinity_rail": {
-    "Id": "infinity_rail",
-    "SquadType": "InfinityRail"
-  },
-  "inherit": {
-    "Id": "inherit",
-    "SquadType": "Inherit"
-  },
-  "machine_lifeform": {
-    "Id": "machine_lifeform",
-    "SquadType": "MachineLifeform"
-  },
-  "maid_for_you": {
-    "Id": "maid_for_you",
-    "SquadType": "MaidForYou"
-  },
-  "master_hand": {
-    "Id": "master_hand",
-    "SquadType": "MasterHand"
-  },
-  "matis": {
-    "Id": "matis",
-    "SquadType": "Matis"
-  },
-  "mighty_tools": {
-    "Id": "mighty_tools",
-    "SquadType": "MightyTools"
-  },
-  "mmr": {
-    "Id": "mmr",
-    "SquadType": "MMR"
-  },
-  "nepenthe": {
-    "Id": "nepenthe",
-    "SquadType": "Nepenthe"
-  },
-  "perilous_siege": {
-    "Id": "perilous_siege",
-    "SquadType": "PerilousSiege"
-  },
-  "pioneer": {
-    "Id": "pioneer",
-    "SquadType": "Pioneer"
-  },
-  "prima_donna": {
-    "Id": "prima_donna",
-    "SquadType": "PrimaDonna"
-  },
-  "protocol": {
-    "Id": "protocol",
-    "SquadType": "Protocol"
-  },
-  "real_kindness": {
-    "Id": "real_kindness",
-    "SquadType": "RealKindness"
-  },
-  "recall_and_release": {
-    "Id": "recall_and_release",
-    "SquadType": "RecallAndRelease"
-  },
-  "replace": {
-    "Id": "replace",
-    "SquadType": "Replace"
-  },
-  "school_circle": {
-    "Id": "school_circle",
-    "SquadType": "SchoolCircle"
-  },
-  "seraphim": {
-    "Id": "seraphim",
-    "SquadType": "Seraphim"
-  },
-  "talentum": {
-    "Id": "talentum",
-    "SquadType": "Talentum"
-  },
-  "the_carronades": {
-    "Id": "the_carronades",
-    "SquadType": "TheCarronades"
-  },
-  "the_scouts": {
-    "Id": "the_scouts",
-    "SquadType": "TheScouts"
-  },
-  "triangle": {
-    "Id": "triangle",
-    "SquadType": "Triangle"
-  },
-  "underworld_queen": {
-    "Id": "underworld_queen",
-    "SquadType": "UnderworldQueen"
-  },
-  "unlimited": {
-    "Id": "unlimited",
-    "SquadType": "Unlimited"
-  },
-  "wardress": {
-    "Id": "wardress",
-    "SquadType": "Wardress"
-  },
-  "yorha": {
-    "Id": "yorha",
-    "SquadType": "YoRHa"
-  },
-  "gem": {
-    "Id": "gem",
-    "ImageUri": null
-  },
-  "credit": {
-    "Id": "credit",
-    "ImageUri": null
-  },
-  "credit_case_2h": {
-    "Id": "credit_case_2h",
-    "ImageUri": null
-  },
-  "cd_keys": [
-    {
-      "Key": "NIKKEPC",
-      "Rewards": {
-        "gem": 100
-      },
-      "Released": "2023-01-06T00:00:00",
-      "Expired": false
+  "Items": {
+    "weapon_assault_rifle": {
+      "Id": "weapon_assault_rifle",
+      "WeaponType": "AR",
+      "ImageUri": null
     },
-    {
-      "Key": "NIKKEFOR2023",
-      "Rewards": {
-        "gem": 100
-      },
-      "Released": "2023-01-06T00:00:00",
-      "Expired": false
+    "weapon_machine_gun": {
+      "Id": "weapon_machine_gun",
+      "WeaponType": "MG",
+      "ImageUri": null
     },
-    {
-      "Key": "NIKKE1104",
-      "Rewards": {
-        "credit_case_2h": 1
-      },
-      "Released": "2022-11-05T00:00:00",
-      "Expired": false
+    "weapon_rocket_launcher": {
+      "Id": "weapon_rocket_launcher",
+      "WeaponType": "RL",
+      "ImageUri": null
     },
-    {
-      "Key": "NIKKE2023",
-      "Rewards": {
-        "gem": 100
-      },
-      "Released": "2022-12-15T00:00:00",
-      "Expired": false
+    "weapon_shotgun": {
+      "Id": "weapon_shotgun",
+      "WeaponType": "SG",
+      "ImageUri": null
     },
-    {
-      "Key": "NIKKE777",
-      "Rewards": {
-        "gem": 100
-      },
-      "Released": "2022-11-05T00:00:00",
-      "Expired": false
+    "weapon_submachine_gun": {
+      "Id": "weapon_submachine_gun",
+      "WeaponType": "SMG",
+      "ImageUri": null
     },
-    {
-      "Key": "NIKKEFORYOU",
-      "Rewards": {
-        "credit_case_2h": 1
+    "weapon_sniper_rifle": {
+      "Id": "weapon_sniper_rifle",
+      "WeaponType": "SR",
+      "ImageUri": null
+    },
+    "attacker": {
+      "Id": "attacker",
+      "ClassType": "Attacker",
+      "ImageUri": null
+    },
+    "defender": {
+      "Id": "defender",
+      "ClassType": "Defender",
+      "ImageUri": null
+    },
+    "supporter": {
+      "Id": "supporter",
+      "ClassType": "Supporter",
+      "ImageUri": null
+    },
+    "elysion": {
+      "Id": "elysion",
+      "ManufacturerType": "Elysion",
+      "ImageUri": null
+    },
+    "missilis": {
+      "Id": "missilis",
+      "ManufacturerType": "Missilis",
+      "ImageUri": null
+    },
+    "tetra": {
+      "Id": "tetra",
+      "ManufacturerType": "Tetra",
+      "ImageUri": null
+    },
+    "pilgrim": {
+      "Id": "pilgrim",
+      "ManufacturerType": "Pilgrim",
+      "ImageUri": null
+    },
+    "abnormal": {
+      "Id": "abnormal",
+      "ManufacturerType": "Abnormal",
+      "ImageUri": null
+    },
+    "777": {
+      "Id": "777",
+      "SquadType": "SevenSevenSeven"
+    },
+    "absolute": {
+      "Id": "absolute",
+      "SquadType": "Absolute"
+    },
+    "academia": {
+      "Id": "academia",
+      "SquadType": "Academia"
+    },
+    "acpu": {
+      "Id": "acpu",
+      "SquadType": "ACPU"
+    },
+    "aegis": {
+      "Id": "aegis",
+      "SquadType": "Aegis"
+    },
+    "cafe_sweety": {
+      "Id": "cafe_sweety",
+      "SquadType": "CafeSweety"
+    },
+    "counters": {
+      "Id": "counters",
+      "SquadType": "Counters"
+    },
+    "dazzling_pearl": {
+      "Id": "dazzling_pearl",
+      "SquadType": "DazzlingPearl"
+    },
+    "devil_hunter": {
+      "Id": "devil_hunter",
+      "SquadType": "DevilHunter"
+    },
+    "exotic": {
+      "Id": "exotic",
+      "SquadType": "Exotic"
+    },
+    "extrinsic": {
+      "Id": "extrinsic",
+      "SquadType": "Extrinsic"
+    },
+    "goddess": {
+      "Id": "goddess",
+      "SquadType": "Goddess"
+    },
+    "happy_zoo": {
+      "Id": "happy_zoo",
+      "SquadType": "HappyZoo"
+    },
+    "heretic": {
+      "Id": "heretic",
+      "SquadType": "Heretic"
+    },
+    "infinity_rail": {
+      "Id": "infinity_rail",
+      "SquadType": "InfinityRail"
+    },
+    "inherit": {
+      "Id": "inherit",
+      "SquadType": "Inherit"
+    },
+    "machine_lifeform": {
+      "Id": "machine_lifeform",
+      "SquadType": "MachineLifeform"
+    },
+    "maid_for_you": {
+      "Id": "maid_for_you",
+      "SquadType": "MaidForYou"
+    },
+    "master_hand": {
+      "Id": "master_hand",
+      "SquadType": "MasterHand"
+    },
+    "matis": {
+      "Id": "matis",
+      "SquadType": "Matis"
+    },
+    "mighty_tools": {
+      "Id": "mighty_tools",
+      "SquadType": "MightyTools"
+    },
+    "mmr": {
+      "Id": "mmr",
+      "SquadType": "MMR"
+    },
+    "nepenthe": {
+      "Id": "nepenthe",
+      "SquadType": "Nepenthe"
+    },
+    "perilous_siege": {
+      "Id": "perilous_siege",
+      "SquadType": "PerilousSiege"
+    },
+    "pioneer": {
+      "Id": "pioneer",
+      "SquadType": "Pioneer"
+    },
+    "prima_donna": {
+      "Id": "prima_donna",
+      "SquadType": "PrimaDonna"
+    },
+    "protocol": {
+      "Id": "protocol",
+      "SquadType": "Protocol"
+    },
+    "real_kindness": {
+      "Id": "real_kindness",
+      "SquadType": "RealKindness"
+    },
+    "recall_and_release": {
+      "Id": "recall_and_release",
+      "SquadType": "RecallAndRelease"
+    },
+    "replace": {
+      "Id": "replace",
+      "SquadType": "Replace"
+    },
+    "school_circle": {
+      "Id": "school_circle",
+      "SquadType": "SchoolCircle"
+    },
+    "seraphim": {
+      "Id": "seraphim",
+      "SquadType": "Seraphim"
+    },
+    "talentum": {
+      "Id": "talentum",
+      "SquadType": "Talentum"
+    },
+    "the_carronades": {
+      "Id": "the_carronades",
+      "SquadType": "TheCarronades"
+    },
+    "the_scouts": {
+      "Id": "the_scouts",
+      "SquadType": "TheScouts"
+    },
+    "triangle": {
+      "Id": "triangle",
+      "SquadType": "Triangle"
+    },
+    "underworld_queen": {
+      "Id": "underworld_queen",
+      "SquadType": "UnderworldQueen"
+    },
+    "unlimited": {
+      "Id": "unlimited",
+      "SquadType": "Unlimited"
+    },
+    "wardress": {
+      "Id": "wardress",
+      "SquadType": "Wardress"
+    },
+    "yorha": {
+      "Id": "yorha",
+      "SquadType": "YoRHa"
+    },
+    "gem": {
+      "Id": "gem",
+      "ImageUri": null
+    },
+    "credit": {
+      "Id": "credit",
+      "ImageUri": null
+    },
+    "credit_case_2h": {
+      "Id": "credit_case_2h",
+      "ImageUri": null
+    },
+    "cd_keys": [
+      {
+        "Key": "NIKKEPC",
+        "Rewards": {
+          "gem": 100
+        },
+        "Released": "2023-01-06T00:00:00",
+        "Expired": false
       },
-      "Released": "2022-11-05T00:00:00",
-      "Expired": false
-    }
-  ]
+      {
+        "Key": "NIKKEFOR2023",
+        "Rewards": {
+          "gem": 100
+        },
+        "Released": "2023-01-06T00:00:00",
+        "Expired": false
+      },
+      {
+        "Key": "NIKKE1104",
+        "Rewards": {
+          "credit_case_2h": 1
+        },
+        "Released": "2022-11-05T00:00:00",
+        "Expired": false
+      },
+      {
+        "Key": "NIKKE2023",
+        "Rewards": {
+          "gem": 100
+        },
+        "Released": "2022-12-15T00:00:00",
+        "Expired": false
+      },
+      {
+        "Key": "NIKKE777",
+        "Rewards": {
+          "gem": 100
+        },
+        "Released": "2022-11-05T00:00:00",
+        "Expired": false
+      },
+      {
+        "Key": "NIKKEFORYOU",
+        "Rewards": {
+          "credit_case_2h": 1
+        },
+        "Released": "2022-11-05T00:00:00",
+        "Expired": false
+      }
+    ]
+  }
 }

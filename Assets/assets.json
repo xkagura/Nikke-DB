@@ -3,1645 +3,1645 @@
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Databases/character_database.json",
     "FileName": "character_database.json",
     "LocalPath": "Databases/character_database.json",
-    "FileSize": 36729,
-    "UpdatedUTC": "2023-12-30T15:18:18.0225492Z"
+    "FileSize": 39744,
+    "UpdatedUnix": 1704284257307
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Databases/nikke_database.json",
     "FileName": "nikke_database.json",
     "LocalPath": "Databases/nikke_database.json",
-    "FileSize": 5850,
-    "UpdatedUTC": "2023-12-30T15:18:18.0175484Z"
+    "FileSize": 6453,
+    "UpdatedUnix": 1704284257301
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Localizations/app_localization_en.json",
     "FileName": "app_localization_en.json",
     "LocalPath": "Localizations/app_localization_en.json",
-    "FileSize": 71,
-    "UpdatedUTC": "2023-12-30T15:18:18.023549Z"
+    "FileSize": 115,
+    "UpdatedUnix": 1704284258484
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Localizations/characters_localization_en.json",
     "FileName": "characters_localization_en.json",
     "LocalPath": "Localizations/characters_localization_en.json",
-    "FileSize": 24861,
-    "UpdatedUTC": "2023-12-30T15:18:18.0275091Z"
+    "FileSize": 25757,
+    "UpdatedUnix": 1704284258490
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Localizations/nikke_localization_en.json",
     "FileName": "nikke_localization_en.json",
     "LocalPath": "Localizations/nikke_localization_en.json",
-    "FileSize": 14130,
-    "UpdatedUTC": "2023-12-30T15:18:18.0250529Z"
+    "FileSize": 14678,
+    "UpdatedUnix": 1704284258487
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Burst%20Stages/icon_burst_1.webp",
     "FileName": "icon_burst_1.webp",
     "LocalPath": "Images/Burst Stages/icon_burst_1.webp",
     "FileSize": 508,
-    "UpdatedUTC": "2023-11-17T13:54:27.5057632Z"
+    "UpdatedUnix": 1700229267505
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Burst%20Stages/icon_burst_2.webp",
     "FileName": "icon_burst_2.webp",
     "LocalPath": "Images/Burst Stages/icon_burst_2.webp",
     "FileSize": 522,
-    "UpdatedUTC": "2023-11-17T13:54:34.1868049Z"
+    "UpdatedUnix": 1700229274186
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Burst%20Stages/icon_burst_3.webp",
     "FileName": "icon_burst_3.webp",
     "LocalPath": "Images/Burst Stages/icon_burst_3.webp",
     "FileSize": 504,
-    "UpdatedUTC": "2023-11-17T13:54:44.9145129Z"
+    "UpdatedUnix": 1700229284914
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Class/class_attacker.webp",
     "FileName": "class_attacker.webp",
     "LocalPath": "Images/Class/class_attacker.webp",
     "FileSize": 714,
-    "UpdatedUTC": "2023-11-17T13:58:38.2198093Z"
+    "UpdatedUnix": 1700229518219
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Class/class_defender.webp",
     "FileName": "class_defender.webp",
     "LocalPath": "Images/Class/class_defender.webp",
     "FileSize": 698,
-    "UpdatedUTC": "2023-11-17T13:58:43.3214728Z"
+    "UpdatedUnix": 1700229523321
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Class/class_supporter.webp",
     "FileName": "class_supporter.webp",
     "LocalPath": "Images/Class/class_supporter.webp",
     "FileSize": 756,
-    "UpdatedUTC": "2023-11-17T13:58:47.6943935Z"
+    "UpdatedUnix": 1700229527694
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Elements/element_electric.webp",
     "FileName": "element_electric.webp",
     "LocalPath": "Images/Elements/element_electric.webp",
     "FileSize": 366,
-    "UpdatedUTC": "2023-11-17T14:02:05.7117218Z"
+    "UpdatedUnix": 1700229725711
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Elements/element_fire.webp",
     "FileName": "element_fire.webp",
     "LocalPath": "Images/Elements/element_fire.webp",
     "FileSize": 448,
-    "UpdatedUTC": "2023-11-17T14:02:07.9059366Z"
+    "UpdatedUnix": 1700229727905
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Elements/element_iron.webp",
     "FileName": "element_iron.webp",
     "LocalPath": "Images/Elements/element_iron.webp",
     "FileSize": 452,
-    "UpdatedUTC": "2023-11-17T14:02:10.5439941Z"
+    "UpdatedUnix": 1700229730543
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Elements/element_water.webp",
     "FileName": "element_water.webp",
     "LocalPath": "Images/Elements/element_water.webp",
     "FileSize": 420,
-    "UpdatedUTC": "2023-11-17T14:02:13.2298915Z"
+    "UpdatedUnix": 1700229733229
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Elements/element_wind.webp",
     "FileName": "element_wind.webp",
     "LocalPath": "Images/Elements/element_wind.webp",
     "FileSize": 450,
-    "UpdatedUTC": "2023-11-17T14:02:15.6847334Z"
+    "UpdatedUnix": 1700229735684
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Items/item_credit.webp",
     "FileName": "item_credit.webp",
     "LocalPath": "Images/Items/item_credit.webp",
     "FileSize": 22504,
-    "UpdatedUTC": "2023-12-28T18:20:01.2356813Z"
+    "UpdatedUnix": 1703787601235
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Items/item_credit_case_2h.webp",
     "FileName": "item_credit_case_2h.webp",
     "LocalPath": "Images/Items/item_credit_case_2h.webp",
     "FileSize": 29296,
-    "UpdatedUTC": "2023-12-28T18:26:22.6213611Z"
+    "UpdatedUnix": 1703787982621
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Items/item_gem.webp",
     "FileName": "item_gem.webp",
     "LocalPath": "Images/Items/item_gem.webp",
     "FileSize": 20902,
-    "UpdatedUTC": "2023-12-28T18:19:54.2638461Z"
+    "UpdatedUnix": 1703787594263
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Weapons/weapon_assault_rifle.webp",
     "FileName": "weapon_assault_rifle.webp",
     "LocalPath": "Images/Weapons/weapon_assault_rifle.webp",
     "FileSize": 342,
-    "UpdatedUTC": "2023-11-17T14:02:27.3549132Z"
+    "UpdatedUnix": 1700229747354
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Weapons/weapon_machine_gun.webp",
     "FileName": "weapon_machine_gun.webp",
     "LocalPath": "Images/Weapons/weapon_machine_gun.webp",
     "FileSize": 460,
-    "UpdatedUTC": "2023-11-17T14:02:30.5907701Z"
+    "UpdatedUnix": 1700229750590
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Weapons/weapon_rocket_launcher.webp",
     "FileName": "weapon_rocket_launcher.webp",
     "LocalPath": "Images/Weapons/weapon_rocket_launcher.webp",
     "FileSize": 350,
-    "UpdatedUTC": "2023-11-17T14:02:33.1186401Z"
+    "UpdatedUnix": 1700229753118
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Weapons/weapon_shotgun.webp",
     "FileName": "weapon_shotgun.webp",
     "LocalPath": "Images/Weapons/weapon_shotgun.webp",
     "FileSize": 254,
-    "UpdatedUTC": "2023-11-17T14:02:35.6873979Z"
+    "UpdatedUnix": 1700229755687
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Weapons/weapon_sniper_rifle.webp",
     "FileName": "weapon_sniper_rifle.webp",
     "LocalPath": "Images/Weapons/weapon_sniper_rifle.webp",
     "FileSize": 380,
-    "UpdatedUTC": "2023-11-17T14:02:40.3247859Z"
+    "UpdatedUnix": 1700229760324
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Weapons/weapon_submachine_gun.webp",
     "FileName": "weapon_submachine_gun.webp",
     "LocalPath": "Images/Weapons/weapon_submachine_gun.webp",
     "FileSize": 394,
-    "UpdatedUTC": "2023-11-17T14:02:37.8773307Z"
+    "UpdatedUnix": 1700229757877
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/2b_icon.webp",
     "FileName": "2b_icon.webp",
     "LocalPath": "Images/Characters/Icon/2b_icon.webp",
     "FileSize": 9580,
-    "UpdatedUTC": "2023-11-17T11:55:04.2097381Z"
+    "UpdatedUnix": 1700222104209
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/a2_icon.webp",
     "FileName": "a2_icon.webp",
     "LocalPath": "Images/Characters/Icon/a2_icon.webp",
     "FileSize": 6462,
-    "UpdatedUTC": "2023-11-17T11:51:58.2811847Z"
+    "UpdatedUnix": 1700221918281
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/admi_icon.webp",
     "FileName": "admi_icon.webp",
     "LocalPath": "Images/Characters/Icon/admi_icon.webp",
     "FileSize": 13742,
-    "UpdatedUTC": "2023-11-17T11:38:04.2136267Z"
+    "UpdatedUnix": 1700221084213
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/alice_icon.webp",
     "FileName": "alice_icon.webp",
     "LocalPath": "Images/Characters/Icon/alice_icon.webp",
     "FileSize": 15070,
-    "UpdatedUTC": "2023-11-17T11:39:10.1297499Z"
+    "UpdatedUnix": 1700221150129
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/anchor_icon.webp",
     "FileName": "anchor_icon.webp",
     "LocalPath": "Images/Characters/Icon/anchor_icon.webp",
     "FileSize": 11650,
-    "UpdatedUTC": "2023-11-17T11:47:56.0573774Z"
+    "UpdatedUnix": 1700221676057
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/anis_icon.webp",
     "FileName": "anis_icon.webp",
     "LocalPath": "Images/Characters/Icon/anis_icon.webp",
     "FileSize": 12476,
-    "UpdatedUTC": "2023-11-17T11:26:22.701258Z"
+    "UpdatedUnix": 1700220382701
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/anis_sparkling_summer_icon.webp",
     "FileName": "anis_sparkling_summer_icon.webp",
     "LocalPath": "Images/Characters/Icon/anis_sparkling_summer_icon.webp",
     "FileSize": 13810,
-    "UpdatedUTC": "2023-11-17T11:27:54.3045083Z"
+    "UpdatedUnix": 1700220474304
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/anne_miracle_fairy_icon.webp",
     "FileName": "anne_miracle_fairy_icon.webp",
     "LocalPath": "Images/Characters/Icon/anne_miracle_fairy_icon.webp",
     "FileSize": 14748,
-    "UpdatedUTC": "2023-11-17T11:34:14.2321731Z"
+    "UpdatedUnix": 1700220854232
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/aria_icon.webp",
     "FileName": "aria_icon.webp",
     "LocalPath": "Images/Characters/Icon/aria_icon.webp",
     "FileSize": 9924,
-    "UpdatedUTC": "2023-11-17T11:51:03.4598826Z"
+    "UpdatedUnix": 1700221863459
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/belorta_icon.webp",
     "FileName": "belorta_icon.webp",
     "LocalPath": "Images/Characters/Icon/belorta_icon.webp",
     "FileSize": 13408,
-    "UpdatedUTC": "2023-11-17T11:29:16.0616813Z"
+    "UpdatedUnix": 1700220556061
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/biscuit_icon.webp",
     "FileName": "biscuit_icon.webp",
     "LocalPath": "Images/Characters/Icon/biscuit_icon.webp",
     "FileSize": 15492,
-    "UpdatedUTC": "2023-11-17T11:48:23.9735376Z"
+    "UpdatedUnix": 1700221703973
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/blanc_icon.webp",
     "FileName": "blanc_icon.webp",
     "LocalPath": "Images/Characters/Icon/blanc_icon.webp",
     "FileSize": 11124,
-    "UpdatedUTC": "2023-11-17T11:44:55.7010903Z"
+    "UpdatedUnix": 1700221495701
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/brid_icon.webp",
     "FileName": "brid_icon.webp",
     "LocalPath": "Images/Characters/Icon/brid_icon.webp",
     "FileSize": 11658,
-    "UpdatedUTC": "2023-11-17T11:29:27.4779983Z"
+    "UpdatedUnix": 1700220567477
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/centi_icon.webp",
     "FileName": "centi_icon.webp",
     "LocalPath": "Images/Characters/Icon/centi_icon.webp",
     "FileSize": 13584,
-    "UpdatedUTC": "2023-11-17T11:30:50.6370835Z"
+    "UpdatedUnix": 1700220650637
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/cocoa_icon.webp",
     "FileName": "cocoa_icon.webp",
     "LocalPath": "Images/Characters/Icon/cocoa_icon.webp",
     "FileSize": 14292,
-    "UpdatedUTC": "2023-11-17T11:47:25.5602969Z"
+    "UpdatedUnix": 1700221645560
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/crow_icon.webp",
     "FileName": "crow_icon.webp",
     "LocalPath": "Images/Characters/Icon/crow_icon.webp",
     "FileSize": 10696,
-    "UpdatedUTC": "2023-11-17T11:32:49.7185097Z"
+    "UpdatedUnix": 1700220769718
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/delta_icon.webp",
     "FileName": "delta_icon.webp",
     "LocalPath": "Images/Characters/Icon/delta_icon.webp",
     "FileSize": 14176,
-    "UpdatedUTC": "2023-11-17T11:28:05.4503656Z"
+    "UpdatedUnix": 1700220485450
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/diesel_icon.webp",
     "FileName": "diesel_icon.webp",
     "LocalPath": "Images/Characters/Icon/diesel_icon.webp",
     "FileSize": 12734,
-    "UpdatedUTC": "2023-11-17T11:30:47.146093Z"
+    "UpdatedUnix": 1700220647146
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/dolla_icon.webp",
     "FileName": "dolla_icon.webp",
     "LocalPath": "Images/Characters/Icon/dolla_icon.webp",
     "FileSize": 12082,
-    "UpdatedUTC": "2023-11-17T11:41:07.0049841Z"
+    "UpdatedUnix": 1700221267004
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/dorothy_icon.webp",
     "FileName": "dorothy_icon.webp",
     "LocalPath": "Images/Characters/Icon/dorothy_icon.webp",
     "FileSize": 13690,
-    "UpdatedUTC": "2023-11-17T11:43:24.7861167Z"
+    "UpdatedUnix": 1700221404786
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/drake_icon.webp",
     "FileName": "drake_icon.webp",
     "LocalPath": "Images/Characters/Icon/drake_icon.webp",
     "FileSize": 11484,
-    "UpdatedUTC": "2023-11-17T11:31:57.5738206Z"
+    "UpdatedUnix": 1700220717573
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/d_icon.webp",
     "FileName": "d_icon.webp",
     "LocalPath": "Images/Characters/Icon/d_icon.webp",
     "FileSize": 11560,
-    "UpdatedUTC": "2023-11-17T11:28:58.8421579Z"
+    "UpdatedUnix": 1700220538842
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/emma_icon.webp",
     "FileName": "emma_icon.webp",
     "LocalPath": "Images/Characters/Icon/emma_icon.webp",
     "FileSize": 11486,
-    "UpdatedUTC": "2023-11-17T11:31:06.7346945Z"
+    "UpdatedUnix": 1700220666734
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/epinel_icon.webp",
     "FileName": "epinel_icon.webp",
     "LocalPath": "Images/Characters/Icon/epinel_icon.webp",
     "FileSize": 14170,
-    "UpdatedUTC": "2023-11-17T11:44:11.1325888Z"
+    "UpdatedUnix": 1700221451132
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/ether_icon.webp",
     "FileName": "ether_icon.webp",
     "LocalPath": "Images/Characters/Icon/ether_icon.webp",
     "FileSize": 13680,
-    "UpdatedUTC": "2023-11-17T11:46:10.4127884Z"
+    "UpdatedUnix": 1700221570412
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/eunhwa_icon.webp",
     "FileName": "eunhwa_icon.webp",
     "LocalPath": "Images/Characters/Icon/eunhwa_icon.webp",
     "FileSize": 9806,
-    "UpdatedUTC": "2023-11-17T11:31:34.939953Z"
+    "UpdatedUnix": 1700220694939
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/exia_icon.webp",
     "FileName": "exia_icon.webp",
     "LocalPath": "Images/Characters/Icon/exia_icon.webp",
     "FileSize": 11670,
-    "UpdatedUTC": "2023-11-17T11:41:36.0207508Z"
+    "UpdatedUnix": 1700221296020
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/folkwang_icon.webp",
     "FileName": "folkwang_icon.webp",
     "LocalPath": "Images/Characters/Icon/folkwang_icon.webp",
     "FileSize": 13282,
-    "UpdatedUTC": "2023-11-17T11:44:14.9979315Z"
+    "UpdatedUnix": 1700221454997
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/frima_icon.webp",
     "FileName": "frima_icon.webp",
     "LocalPath": "Images/Characters/Icon/frima_icon.webp",
     "FileSize": 12398,
-    "UpdatedUTC": "2023-11-17T11:36:51.2154988Z"
+    "UpdatedUnix": 1700221011215
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/guillotine_icon.webp",
     "FileName": "guillotine_icon.webp",
     "LocalPath": "Images/Characters/Icon/guillotine_icon.webp",
     "FileSize": 12894,
-    "UpdatedUTC": "2023-11-17T11:38:37.4911649Z"
+    "UpdatedUnix": 1700221117491
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/guilty_icon.webp",
     "FileName": "guilty_icon.webp",
     "LocalPath": "Images/Characters/Icon/guilty_icon.webp",
     "FileSize": 14708,
-    "UpdatedUTC": "2023-11-17T11:48:39.1444342Z"
+    "UpdatedUnix": 1700221719144
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/harran_icon.webp",
     "FileName": "harran_icon.webp",
     "LocalPath": "Images/Characters/Icon/harran_icon.webp",
     "FileSize": 13900,
-    "UpdatedUTC": "2023-11-17T11:42:40.2463253Z"
+    "UpdatedUnix": 1700221360246
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/helm_aquamarine_icon.webp",
     "FileName": "helm_aquamarine_icon.webp",
     "LocalPath": "Images/Characters/Icon/helm_aquamarine_icon.webp",
     "FileSize": 12598,
-    "UpdatedUTC": "2023-11-17T11:48:08.0262302Z"
+    "UpdatedUnix": 1700221688026
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/helm_icon.webp",
     "FileName": "helm_icon.webp",
     "LocalPath": "Images/Characters/Icon/helm_icon.webp",
     "FileSize": 14516,
-    "UpdatedUTC": "2023-11-17T11:55:41.7462297Z"
+    "UpdatedUnix": 1700222141746
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/himeno_icon.webp",
     "FileName": "himeno_icon.webp",
     "LocalPath": "Images/Characters/Icon/himeno_icon.webp",
     "FileSize": 10476,
-    "UpdatedUTC": "2023-11-17T11:51:50.7808318Z"
+    "UpdatedUnix": 1700221910780
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/idoll_flower_icon.webp",
     "FileName": "idoll_flower_icon.webp",
     "LocalPath": "Images/Characters/Icon/idoll_flower_icon.webp",
     "FileSize": 12706,
-    "UpdatedUTC": "2023-11-17T11:46:47.518339Z"
+    "UpdatedUnix": 1700221607518
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/idoll_ocean_icon.webp",
     "FileName": "idoll_ocean_icon.webp",
     "LocalPath": "Images/Characters/Icon/idoll_ocean_icon.webp",
     "FileSize": 11702,
-    "UpdatedUTC": "2023-11-17T11:46:55.1325265Z"
+    "UpdatedUnix": 1700221615132
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/idoll_sun_icon.webp",
     "FileName": "idoll_sun_icon.webp",
     "LocalPath": "Images/Characters/Icon/idoll_sun_icon.webp",
     "FileSize": 12592,
-    "UpdatedUTC": "2023-11-17T11:47:16.382994Z"
+    "UpdatedUnix": 1700221636382
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/isabel_icon.webp",
     "FileName": "isabel_icon.webp",
     "LocalPath": "Images/Characters/Icon/isabel_icon.webp",
     "FileSize": 13506,
-    "UpdatedUTC": "2023-11-17T11:42:52.6468192Z"
+    "UpdatedUnix": 1700221372646
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/jackal_icon.webp",
     "FileName": "jackal_icon.webp",
     "LocalPath": "Images/Characters/Icon/jackal_icon.webp",
     "FileSize": 14836,
-    "UpdatedUTC": "2023-11-17T11:32:54.0972738Z"
+    "UpdatedUnix": 1700220774097
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/julia_icon.webp",
     "FileName": "julia_icon.webp",
     "LocalPath": "Images/Characters/Icon/julia_icon.webp",
     "FileSize": 13896,
-    "UpdatedUTC": "2023-11-17T11:36:58.0194645Z"
+    "UpdatedUnix": 1700221018019
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/laplace_icon.webp",
     "FileName": "laplace_icon.webp",
     "LocalPath": "Images/Characters/Icon/laplace_icon.webp",
     "FileSize": 14048,
-    "UpdatedUTC": "2023-11-17T11:31:40.3039775Z"
+    "UpdatedUnix": 1700220700303
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/liter_icon.webp",
     "FileName": "liter_icon.webp",
     "LocalPath": "Images/Characters/Icon/liter_icon.webp",
     "FileSize": 13390,
-    "UpdatedUTC": "2023-11-17T11:31:01.8885108Z"
+    "UpdatedUnix": 1700220661888
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/ludmilla_icon.webp",
     "FileName": "ludmilla_icon.webp",
     "LocalPath": "Images/Characters/Icon/ludmilla_icon.webp",
     "FileSize": 12178,
-    "UpdatedUTC": "2023-11-17T11:39:03.9235368Z"
+    "UpdatedUnix": 1700221143923
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/ludmilla_winter_owner_icon.webp",
     "FileName": "ludmilla_winter_owner_icon.webp",
     "LocalPath": "Images/Characters/Icon/ludmilla_winter_owner_icon.webp",
     "FileSize": 6246,
-    "UpdatedUTC": "2023-12-08T12:02:04.8807876Z"
+    "UpdatedUnix": 1702036924880
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/maiden_icon.webp",
     "FileName": "maiden_icon.webp",
     "LocalPath": "Images/Characters/Icon/maiden_icon.webp",
     "FileSize": 12262,
-    "UpdatedUTC": "2023-11-17T11:38:57.3529238Z"
+    "UpdatedUnix": 1700221137352
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/makima_icon.webp",
     "FileName": "makima_icon.webp",
     "LocalPath": "Images/Characters/Icon/makima_icon.webp",
     "FileSize": 10148,
-    "UpdatedUTC": "2023-11-17T11:54:10.4487346Z"
+    "UpdatedUnix": 1700222050448
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/marciana_icon.webp",
     "FileName": "marciana_icon.webp",
     "LocalPath": "Images/Characters/Icon/marciana_icon.webp",
     "FileSize": 6222,
-    "UpdatedUTC": "2023-11-17T11:47:45.1478915Z"
+    "UpdatedUnix": 1700221665147
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/mary_bay_goddess_icon.webp",
     "FileName": "mary_bay_goddess_icon.webp",
     "LocalPath": "Images/Characters/Icon/mary_bay_goddess_icon.webp",
     "FileSize": 12644,
-    "UpdatedUTC": "2023-11-17T11:34:45.7806348Z"
+    "UpdatedUnix": 1700220885780
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/mary_icon.webp",
     "FileName": "mary_icon.webp",
     "LocalPath": "Images/Characters/Icon/mary_icon.webp",
     "FileSize": 12674,
-    "UpdatedUTC": "2023-11-17T11:34:30.6574615Z"
+    "UpdatedUnix": 1700220870657
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/mast_icon.webp",
     "FileName": "mast_icon.webp",
     "LocalPath": "Images/Characters/Icon/mast_icon.webp",
     "FileSize": 14190,
-    "UpdatedUTC": "2023-11-17T11:47:49.2719799Z"
+    "UpdatedUnix": 1700221669271
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/maxwell_icon.webp",
     "FileName": "maxwell_icon.webp",
     "LocalPath": "Images/Characters/Icon/maxwell_icon.webp",
     "FileSize": 12926,
-    "UpdatedUTC": "2023-11-17T11:32:04.0773382Z"
+    "UpdatedUnix": 1700220724077
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/mica_icon.webp",
     "FileName": "mica_icon.webp",
     "LocalPath": "Images/Characters/Icon/mica_icon.webp",
     "FileSize": 13652,
-    "UpdatedUTC": "2023-11-17T11:29:23.1049908Z"
+    "UpdatedUnix": 1700220563104
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/mihara_icon.webp",
     "FileName": "mihara_icon.webp",
     "LocalPath": "Images/Characters/Icon/mihara_icon.webp",
     "FileSize": 11958,
-    "UpdatedUTC": "2023-11-17T11:37:15.8522591Z"
+    "UpdatedUnix": 1700221035852
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/milk_icon.webp",
     "FileName": "milk_icon.webp",
     "LocalPath": "Images/Characters/Icon/milk_icon.webp",
     "FileSize": 13020,
-    "UpdatedUTC": "2023-11-17T11:36:47.1425815Z"
+    "UpdatedUnix": 1700221007142
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/miranda_icon.webp",
     "FileName": "miranda_icon.webp",
     "LocalPath": "Images/Characters/Icon/miranda_icon.webp",
     "FileSize": 14582,
-    "UpdatedUTC": "2023-11-17T11:28:46.1906269Z"
+    "UpdatedUnix": 1700220526190
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/modernia_icon.webp",
     "FileName": "modernia_icon.webp",
     "LocalPath": "Images/Characters/Icon/modernia_icon.webp",
     "FileSize": 13036,
-    "UpdatedUTC": "2023-11-17T11:44:25.1265356Z"
+    "UpdatedUnix": 1700221465126
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/n102_icon.webp",
     "FileName": "n102_icon.webp",
     "LocalPath": "Images/Characters/Icon/n102_icon.webp",
     "FileSize": 14432,
-    "UpdatedUTC": "2023-11-17T11:33:12.5743091Z"
+    "UpdatedUnix": 1700220792574
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/naga_icon.webp",
     "FileName": "naga_icon.webp",
     "LocalPath": "Images/Characters/Icon/naga_icon.webp",
     "FileSize": 7586,
-    "UpdatedUTC": "2023-11-17T11:51:09.1801904Z"
+    "UpdatedUnix": 1700221869180
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/neon_blue_ocean_icon.webp",
     "FileName": "neon_blue_ocean_icon.webp",
     "LocalPath": "Images/Characters/Icon/neon_blue_ocean_icon.webp",
     "FileSize": 12372,
-    "UpdatedUTC": "2023-11-17T11:27:40.6451357Z"
+    "UpdatedUnix": 1700220460645
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/neon_icon.webp",
     "FileName": "neon_icon.webp",
     "LocalPath": "Images/Characters/Icon/neon_icon.webp",
     "FileSize": 11798,
-    "UpdatedUTC": "2023-11-17T11:26:17.5874839Z"
+    "UpdatedUnix": 1700220377587
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/nero_icon.webp",
     "FileName": "nero_icon.webp",
     "LocalPath": "Images/Characters/Icon/nero_icon.webp",
     "FileSize": 14492,
-    "UpdatedUTC": "2023-11-17T11:48:12.1682681Z"
+    "UpdatedUnix": 1700221692168
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/neve_icon.webp",
     "FileName": "neve_icon.webp",
     "LocalPath": "Images/Characters/Icon/neve_icon.webp",
     "FileSize": 13326,
-    "UpdatedUTC": "2023-11-17T11:40:14.5303196Z"
+    "UpdatedUnix": 1700221214530
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/nihilister_icon.webp",
     "FileName": "nihilister_icon.webp",
     "LocalPath": "Images/Characters/Icon/nihilister_icon.webp",
     "FileSize": 13730,
-    "UpdatedUTC": "2023-11-17T11:44:43.2831739Z"
+    "UpdatedUnix": 1700221483283
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/noah_icon.webp",
     "FileName": "noah_icon.webp",
     "LocalPath": "Images/Characters/Icon/noah_icon.webp",
     "FileSize": 13458,
-    "UpdatedUTC": "2023-11-17T11:43:04.7819805Z"
+    "UpdatedUnix": 1700221384781
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/noir_icon.webp",
     "FileName": "noir_icon.webp",
     "LocalPath": "Images/Characters/Icon/noir_icon.webp",
     "FileSize": 13018,
-    "UpdatedUTC": "2023-11-17T11:45:00.8081524Z"
+    "UpdatedUnix": 1700221500808
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/noise_icon.webp",
     "FileName": "noise_icon.webp",
     "LocalPath": "Images/Characters/Icon/noise_icon.webp",
     "FileSize": 13732,
-    "UpdatedUTC": "2023-11-17T11:50:54.8402518Z"
+    "UpdatedUnix": 1700221854840
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/novel_icon.webp",
     "FileName": "novel_icon.webp",
     "LocalPath": "Images/Characters/Icon/novel_icon.webp",
     "FileSize": 14264,
-    "UpdatedUTC": "2023-11-17T11:41:54.9490541Z"
+    "UpdatedUnix": 1700221314949
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/pascal_icon.webp",
     "FileName": "pascal_icon.webp",
     "LocalPath": "Images/Characters/Icon/pascal_icon.webp",
     "FileSize": 9970,
-    "UpdatedUTC": "2023-11-17T11:55:56.0571291Z"
+    "UpdatedUnix": 1700222156057
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/pepper_icon.webp",
     "FileName": "pepper_icon.webp",
     "LocalPath": "Images/Characters/Icon/pepper_icon.webp",
     "FileSize": 13094,
-    "UpdatedUTC": "2023-11-17T11:34:36.4294187Z"
+    "UpdatedUnix": 1700220876429
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/poli_icon.webp",
     "FileName": "poli_icon.webp",
     "LocalPath": "Images/Characters/Icon/poli_icon.webp",
     "FileSize": 14540,
-    "UpdatedUTC": "2023-11-17T11:28:41.7084994Z"
+    "UpdatedUnix": 1700220521708
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/power_icon.webp",
     "FileName": "power_icon.webp",
     "LocalPath": "Images/Characters/Icon/power_icon.webp",
     "FileSize": 13024,
-    "UpdatedUTC": "2023-11-17T11:51:42.6040221Z"
+    "UpdatedUnix": 1700221902604
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/privaty_icon.webp",
     "FileName": "privaty_icon.webp",
     "LocalPath": "Images/Characters/Icon/privaty_icon.webp",
     "FileSize": 14546,
-    "UpdatedUTC": "2023-11-17T11:37:20.5612883Z"
+    "UpdatedUnix": 1700221040561
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/product_08_icon.webp",
     "FileName": "product_08_icon.webp",
     "LocalPath": "Images/Characters/Icon/product_08_icon.webp",
     "FileSize": 13172,
-    "UpdatedUTC": "2023-11-17T11:46:33.5530538Z"
+    "UpdatedUnix": 1700221593553
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/product_12_icon.webp",
     "FileName": "product_12_icon.webp",
     "LocalPath": "Images/Characters/Icon/product_12_icon.webp",
     "FileSize": 12884,
-    "UpdatedUTC": "2023-11-17T11:46:40.2148864Z"
+    "UpdatedUnix": 1700221600214
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/product_23_icon.webp",
     "FileName": "product_23_icon.webp",
     "LocalPath": "Images/Characters/Icon/product_23_icon.webp",
     "FileSize": 14730,
-    "UpdatedUTC": "2023-11-17T11:47:09.9403842Z"
+    "UpdatedUnix": 1700221629940
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/quency_icon.webp",
     "FileName": "quency_icon.webp",
     "LocalPath": "Images/Characters/Icon/quency_icon.webp",
     "FileSize": 13026,
-    "UpdatedUTC": "2023-11-17T11:48:52.0362538Z"
+    "UpdatedUnix": 1700221732036
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/quiry_icon.webp",
     "FileName": "quiry_icon.webp",
     "LocalPath": "Images/Characters/Icon/quiry_icon.webp",
     "FileSize": 7738,
-    "UpdatedUTC": "2023-11-17T11:28:53.4860627Z"
+    "UpdatedUnix": 1700220533486
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/rapi_icon.webp",
     "FileName": "rapi_icon.webp",
     "LocalPath": "Images/Characters/Icon/rapi_icon.webp",
     "FileSize": 12612,
-    "UpdatedUTC": "2023-11-17T11:26:12.4453085Z"
+    "UpdatedUnix": 1700220372445
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/rapunzel_icon.webp",
     "FileName": "rapunzel_icon.webp",
     "LocalPath": "Images/Characters/Icon/rapunzel_icon.webp",
     "FileSize": 14272,
-    "UpdatedUTC": "2023-11-17T11:42:01.8525597Z"
+    "UpdatedUnix": 1700221321852
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/red_hood_icon.webp",
     "FileName": "red_hood_icon.webp",
     "LocalPath": "Images/Characters/Icon/red_hood_icon.webp",
     "FileSize": 6234,
-    "UpdatedUTC": "2023-11-17T11:51:16.7895824Z"
+    "UpdatedUnix": 1700221876789
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/rei_icon.webp",
     "FileName": "rei_icon.webp",
     "LocalPath": "Images/Characters/Icon/rei_icon.webp",
     "FileSize": 12704,
-    "UpdatedUTC": "2023-11-17T11:48:29.1614279Z"
+    "UpdatedUnix": 1700221709161
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/rosanna_icon.webp",
     "FileName": "rosanna_icon.webp",
     "LocalPath": "Images/Characters/Icon/rosanna_icon.webp",
     "FileSize": 12692,
-    "UpdatedUTC": "2023-11-17T11:45:53.5911892Z"
+    "UpdatedUnix": 1700221553591
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/rupee_icon.webp",
     "FileName": "rupee_icon.webp",
     "LocalPath": "Images/Characters/Icon/rupee_icon.webp",
     "FileSize": 14728,
-    "UpdatedUTC": "2023-11-17T11:40:35.8774174Z"
+    "UpdatedUnix": 1700221235877
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/rupee_winter_shopper_icon.webp",
     "FileName": "rupee_winter_shopper_icon.webp",
     "LocalPath": "Images/Characters/Icon/rupee_winter_shopper_icon.webp",
     "FileSize": 14690,
-    "UpdatedUTC": "2023-11-17T11:41:21.1866033Z"
+    "UpdatedUnix": 1700221281186
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/sakura_icon.webp",
     "FileName": "sakura_icon.webp",
     "LocalPath": "Images/Characters/Icon/sakura_icon.webp",
     "FileSize": 13452,
-    "UpdatedUTC": "2023-11-17T11:45:58.7790473Z"
+    "UpdatedUnix": 1700221558779
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/scarlet_icon.webp",
     "FileName": "scarlet_icon.webp",
     "LocalPath": "Images/Characters/Icon/scarlet_icon.webp",
     "FileSize": 12362,
-    "UpdatedUTC": "2023-11-17T11:42:17.1262471Z"
+    "UpdatedUnix": 1700221337126
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/signal_icon.webp",
     "FileName": "signal_icon.webp",
     "LocalPath": "Images/Characters/Icon/signal_icon.webp",
     "FileSize": 13930,
-    "UpdatedUTC": "2023-11-17T11:28:23.3371192Z"
+    "UpdatedUnix": 1700220503337
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/sin_icon.webp",
     "FileName": "sin_icon.webp",
     "LocalPath": "Images/Characters/Icon/sin_icon.webp",
     "FileSize": 12984,
-    "UpdatedUTC": "2023-11-17T11:48:43.4365723Z"
+    "UpdatedUnix": 1700221723436
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/snow_white_icon.webp",
     "FileName": "snow_white_icon.webp",
     "LocalPath": "Images/Characters/Icon/snow_white_icon.webp",
     "FileSize": 13106,
-    "UpdatedUTC": "2023-11-17T11:41:43.9674369Z"
+    "UpdatedUnix": 1700221303967
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/snow_white_innocent_days_icon.webp",
     "FileName": "snow_white_innocent_days_icon.webp",
     "LocalPath": "Images/Characters/Icon/snow_white_innocent_days_icon.webp",
     "FileSize": 6392,
-    "UpdatedUTC": "2023-11-17T11:42:24.8300666Z"
+    "UpdatedUnix": 1700221344830
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/soda_icon.webp",
     "FileName": "soda_icon.webp",
     "LocalPath": "Images/Characters/Icon/soda_icon.webp",
     "FileSize": 15566,
-    "UpdatedUTC": "2023-11-17T11:47:30.0251006Z"
+    "UpdatedUnix": 1700221650025
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/soldier_eg_icon.webp",
     "FileName": "soldier_eg_icon.webp",
     "LocalPath": "Images/Characters/Icon/soldier_eg_icon.webp",
     "FileSize": 13772,
-    "UpdatedUTC": "2023-11-17T11:46:19.53516Z"
+    "UpdatedUnix": 1700221579535
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/soldier_fa_icon.webp",
     "FileName": "soldier_fa_icon.webp",
     "LocalPath": "Images/Characters/Icon/soldier_fa_icon.webp",
     "FileSize": 14964,
-    "UpdatedUTC": "2023-11-17T11:46:25.9768564Z"
+    "UpdatedUnix": 1700221585976
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/soldier_ow_icon.webp",
     "FileName": "soldier_ow_icon.webp",
     "LocalPath": "Images/Characters/Icon/soldier_ow_icon.webp",
     "FileSize": 10464,
-    "UpdatedUTC": "2023-11-17T11:47:00.9232552Z"
+    "UpdatedUnix": 1700221620923
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/soline_icon.webp",
     "FileName": "soline_icon.webp",
     "LocalPath": "Images/Characters/Icon/soline_icon.webp",
     "FileSize": 13810,
-    "UpdatedUTC": "2023-11-17T11:29:41.4498965Z"
+    "UpdatedUnix": 1700220581449
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/sugar_icon.webp",
     "FileName": "sugar_icon.webp",
     "LocalPath": "Images/Characters/Icon/sugar_icon.webp",
     "FileSize": 13152,
-    "UpdatedUTC": "2023-11-17T11:34:57.926046Z"
+    "UpdatedUnix": 1700220897926
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/tia_icon.webp",
     "FileName": "tia_icon.webp",
     "LocalPath": "Images/Characters/Icon/tia_icon.webp",
     "FileSize": 7632,
-    "UpdatedUTC": "2023-11-17T11:51:12.4581442Z"
+    "UpdatedUnix": 1700221872458
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/tove_icon.webp",
     "FileName": "tove_icon.webp",
     "LocalPath": "Images/Characters/Icon/tove_icon.webp",
     "FileSize": 6406,
-    "UpdatedUTC": "2023-12-08T12:01:46.9192675Z"
+    "UpdatedUnix": 1702036906919
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/vesti_icon.webp",
     "FileName": "vesti_icon.webp",
     "LocalPath": "Images/Characters/Icon/vesti_icon.webp",
     "FileSize": 12250,
-    "UpdatedUTC": "2023-11-17T11:31:21.7813459Z"
+    "UpdatedUnix": 1700220681781
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/viper_icon.webp",
     "FileName": "viper_icon.webp",
     "LocalPath": "Images/Characters/Icon/viper_icon.webp",
     "FileSize": 13530,
-    "UpdatedUTC": "2023-11-17T11:32:57.5045973Z"
+    "UpdatedUnix": 1700220777504
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/volume_icon.webp",
     "FileName": "volume_icon.webp",
     "LocalPath": "Images/Characters/Icon/volume_icon.webp",
     "FileSize": 12996,
-    "UpdatedUTC": "2023-11-17T11:50:58.2248932Z"
+    "UpdatedUnix": 1700221858224
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/yan_icon.webp",
     "FileName": "yan_icon.webp",
     "LocalPath": "Images/Characters/Icon/yan_icon.webp",
     "FileSize": 15036,
-    "UpdatedUTC": "2023-11-17T11:40:50.7548079Z"
+    "UpdatedUnix": 1700221250754
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/yulha_icon.webp",
     "FileName": "yulha_icon.webp",
     "LocalPath": "Images/Characters/Icon/yulha_icon.webp",
     "FileSize": 13260,
-    "UpdatedUTC": "2023-11-17T11:37:42.1529551Z"
+    "UpdatedUnix": 1700221062152
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/yuni_icon.webp",
     "FileName": "yuni_icon.webp",
     "LocalPath": "Images/Characters/Icon/yuni_icon.webp",
     "FileSize": 12804,
-    "UpdatedUTC": "2023-11-17T11:37:06.555959Z"
+    "UpdatedUnix": 1700221026555
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/2b_portrait.webp",
     "FileName": "2b_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/2b_portrait.webp",
     "FileSize": 167452,
-    "UpdatedUTC": "2023-11-16T15:01:43.9133717Z"
+    "UpdatedUnix": 1700146903913
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/a2_portrait.webp",
     "FileName": "a2_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/a2_portrait.webp",
     "FileSize": 177024,
-    "UpdatedUTC": "2023-11-16T15:01:48.4590461Z"
+    "UpdatedUnix": 1700146908459
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/admi_portrait.webp",
     "FileName": "admi_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/admi_portrait.webp",
     "FileSize": 87662,
-    "UpdatedUTC": "2023-11-16T15:01:56.1641983Z"
+    "UpdatedUnix": 1700146916164
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/alice_portrait.webp",
     "FileName": "alice_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/alice_portrait.webp",
     "FileSize": 109600,
-    "UpdatedUTC": "2023-11-16T15:02:01.1341423Z"
+    "UpdatedUnix": 1700146921134
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/anchor_portrait.webp",
     "FileName": "anchor_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/anchor_portrait.webp",
     "FileSize": 263554,
-    "UpdatedUTC": "2023-11-16T14:23:56.8351653Z"
+    "UpdatedUnix": 1700144636835
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/anis_portrait.webp",
     "FileName": "anis_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/anis_portrait.webp",
     "FileSize": 105112,
-    "UpdatedUTC": "2023-11-16T14:24:03.7344059Z"
+    "UpdatedUnix": 1700144643734
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/anis_sparkling_summer_portrait.webp",
     "FileName": "anis_sparkling_summer_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/anis_sparkling_summer_portrait.webp",
     "FileSize": 202238,
-    "UpdatedUTC": "2023-11-16T15:02:14.7694904Z"
+    "UpdatedUnix": 1700146934769
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/anne_miracle_fairy_portrait.webp",
     "FileName": "anne_miracle_fairy_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/anne_miracle_fairy_portrait.webp",
     "FileSize": 119416,
-    "UpdatedUTC": "2023-11-16T15:03:12.4869413Z"
+    "UpdatedUnix": 1700146992486
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/aria_portrait.webp",
     "FileName": "aria_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/aria_portrait.webp",
     "FileSize": 132302,
-    "UpdatedUTC": "2023-11-16T15:03:18.5690301Z"
+    "UpdatedUnix": 1700146998569
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/belorta_portrait.webp",
     "FileName": "belorta_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/belorta_portrait.webp",
     "FileSize": 102230,
-    "UpdatedUTC": "2023-11-16T14:24:12.9293392Z"
+    "UpdatedUnix": 1700144652929
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/biscuit_portrait.webp",
     "FileName": "biscuit_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/biscuit_portrait.webp",
     "FileSize": 153786,
-    "UpdatedUTC": "2023-11-16T15:03:23.9808146Z"
+    "UpdatedUnix": 1700147003980
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/blanc_portrait.webp",
     "FileName": "blanc_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/blanc_portrait.webp",
     "FileSize": 162146,
-    "UpdatedUTC": "2023-11-16T15:03:35.3136057Z"
+    "UpdatedUnix": 1700147015313
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/brid_portrait.webp",
     "FileName": "brid_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/brid_portrait.webp",
     "FileSize": 144942,
-    "UpdatedUTC": "2023-11-16T15:03:41.2092977Z"
+    "UpdatedUnix": 1700147021209
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/centi_portrait.webp",
     "FileName": "centi_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/centi_portrait.webp",
     "FileSize": 105982,
-    "UpdatedUTC": "2023-11-16T15:03:46.4095187Z"
+    "UpdatedUnix": 1700147026409
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/cocoa_portrait.webp",
     "FileName": "cocoa_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/cocoa_portrait.webp",
     "FileSize": 127460,
-    "UpdatedUTC": "2023-11-16T15:03:53.1077481Z"
+    "UpdatedUnix": 1700147033107
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/crow_portrait.webp",
     "FileName": "crow_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/crow_portrait.webp",
     "FileSize": 155098,
-    "UpdatedUTC": "2023-11-16T15:03:58.2563323Z"
+    "UpdatedUnix": 1700147038256
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/delta_portrait.webp",
     "FileName": "delta_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/delta_portrait.webp",
     "FileSize": 132486,
-    "UpdatedUTC": "2023-11-16T14:24:20.8773631Z"
+    "UpdatedUnix": 1700144660877
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/diesel_portrait.webp",
     "FileName": "diesel_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/diesel_portrait.webp",
     "FileSize": 111514,
-    "UpdatedUTC": "2023-11-16T15:04:10.4879256Z"
+    "UpdatedUnix": 1700147050487
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/dolla_portrait.webp",
     "FileName": "dolla_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/dolla_portrait.webp",
     "FileSize": 90772,
-    "UpdatedUTC": "2023-11-16T15:04:15.2552197Z"
+    "UpdatedUnix": 1700147055255
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/dorothy_portrait.webp",
     "FileName": "dorothy_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/dorothy_portrait.webp",
     "FileSize": 203644,
-    "UpdatedUTC": "2023-11-16T15:04:21.6453558Z"
+    "UpdatedUnix": 1700147061645
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/drake_portrait.webp",
     "FileName": "drake_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/drake_portrait.webp",
     "FileSize": 115716,
-    "UpdatedUTC": "2023-11-16T15:04:35.7574589Z"
+    "UpdatedUnix": 1700147075757
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/d_portrait.webp",
     "FileName": "d_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/d_portrait.webp",
     "FileSize": 126898,
-    "UpdatedUTC": "2023-11-16T15:04:03.2404966Z"
+    "UpdatedUnix": 1700147043240
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/emma_portrait.webp",
     "FileName": "emma_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/emma_portrait.webp",
     "FileSize": 83662,
-    "UpdatedUTC": "2023-11-16T15:04:40.4934644Z"
+    "UpdatedUnix": 1700147080493
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/epinel_portrait.webp",
     "FileName": "epinel_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/epinel_portrait.webp",
     "FileSize": 128918,
-    "UpdatedUTC": "2023-11-16T15:04:46.6610002Z"
+    "UpdatedUnix": 1700147086661
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/ether_portrait.webp",
     "FileName": "ether_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/ether_portrait.webp",
     "FileSize": 163070,
-    "UpdatedUTC": "2023-11-16T14:24:25.491529Z"
+    "UpdatedUnix": 1700144665491
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/eunhwa_portrait.webp",
     "FileName": "eunhwa_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/eunhwa_portrait.webp",
     "FileSize": 114590,
-    "UpdatedUTC": "2023-11-16T15:04:52.8673135Z"
+    "UpdatedUnix": 1700147092867
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/exia_portrait.webp",
     "FileName": "exia_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/exia_portrait.webp",
     "FileSize": 79654,
-    "UpdatedUTC": "2023-11-16T15:04:57.9996846Z"
+    "UpdatedUnix": 1700147097999
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/folkwang_portrait.webp",
     "FileName": "folkwang_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/folkwang_portrait.webp",
     "FileSize": 111844,
-    "UpdatedUTC": "2023-11-16T15:05:03.2195463Z"
+    "UpdatedUnix": 1700147103219
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/frima_portrait.webp",
     "FileName": "frima_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/frima_portrait.webp",
     "FileSize": 96200,
-    "UpdatedUTC": "2023-11-16T15:05:09.9307568Z"
+    "UpdatedUnix": 1700147109930
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/guillotine_portrait.webp",
     "FileName": "guillotine_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/guillotine_portrait.webp",
     "FileSize": 106618,
-    "UpdatedUTC": "2023-11-16T15:05:18.632101Z"
+    "UpdatedUnix": 1700147118632
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/guilty_portrait.webp",
     "FileName": "guilty_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/guilty_portrait.webp",
     "FileSize": 175420,
-    "UpdatedUTC": "2023-11-16T15:05:22.9472609Z"
+    "UpdatedUnix": 1700147122947
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/harran_portrait.webp",
     "FileName": "harran_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/harran_portrait.webp",
     "FileSize": 331116,
-    "UpdatedUTC": "2023-11-16T15:05:28.0909687Z"
+    "UpdatedUnix": 1700147128090
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/helm_aquamarine_portrait.webp",
     "FileName": "helm_aquamarine_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/helm_aquamarine_portrait.webp",
     "FileSize": 99094,
-    "UpdatedUTC": "2023-11-16T15:05:44.3905074Z"
+    "UpdatedUnix": 1700147144390
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/helm_portrait.webp",
     "FileName": "helm_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/helm_portrait.webp",
     "FileSize": 231670,
-    "UpdatedUTC": "2023-11-16T15:05:32.8515748Z"
+    "UpdatedUnix": 1700147132851
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/himeno_portrait.webp",
     "FileName": "himeno_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/himeno_portrait.webp",
     "FileSize": 63180,
-    "UpdatedUTC": "2023-11-16T14:24:30.0823396Z"
+    "UpdatedUnix": 1700144670082
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/idoll_flower_portrait.webp",
     "FileName": "idoll_flower_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/idoll_flower_portrait.webp",
     "FileSize": 132620,
-    "UpdatedUTC": "2023-11-16T13:35:02.4532377Z"
+    "UpdatedUnix": 1700141702453
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/idoll_ocean_portrait.webp",
     "FileName": "idoll_ocean_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/idoll_ocean_portrait.webp",
     "FileSize": 98820,
-    "UpdatedUTC": "2023-11-16T13:35:08.6367923Z"
+    "UpdatedUnix": 1700141708636
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/idoll_sun_portrait.webp",
     "FileName": "idoll_sun_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/idoll_sun_portrait.webp",
     "FileSize": 143342,
-    "UpdatedUTC": "2023-11-16T13:35:15.2348707Z"
+    "UpdatedUnix": 1700141715234
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/isabel_portrait.webp",
     "FileName": "isabel_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/isabel_portrait.webp",
     "FileSize": 245880,
-    "UpdatedUTC": "2023-11-16T15:06:15.6660992Z"
+    "UpdatedUnix": 1700147175666
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/jackal_portrait.webp",
     "FileName": "jackal_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/jackal_portrait.webp",
     "FileSize": 161382,
-    "UpdatedUTC": "2023-11-16T15:06:21.0112036Z"
+    "UpdatedUnix": 1700147181011
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/julia_portrait.webp",
     "FileName": "julia_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/julia_portrait.webp",
     "FileSize": 167798,
-    "UpdatedUTC": "2023-11-16T15:06:27.0020525Z"
+    "UpdatedUnix": 1700147187002
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/laplace_portrait.webp",
     "FileName": "laplace_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/laplace_portrait.webp",
     "FileSize": 202038,
-    "UpdatedUTC": "2023-11-16T15:06:32.2486538Z"
+    "UpdatedUnix": 1700147192248
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/liter_portrait.webp",
     "FileName": "liter_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/liter_portrait.webp",
     "FileSize": 137538,
-    "UpdatedUTC": "2023-11-16T15:06:36.5504963Z"
+    "UpdatedUnix": 1700147196550
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/ludmilla_portrait.webp",
     "FileName": "ludmilla_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/ludmilla_portrait.webp",
     "FileSize": 130420,
-    "UpdatedUTC": "2023-11-16T15:06:42.151521Z"
+    "UpdatedUnix": 1700147202151
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/ludmilla_winter_owner_portrait.webp",
     "FileName": "ludmilla_winter_owner_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/ludmilla_winter_owner_portrait.webp",
     "FileSize": 103508,
-    "UpdatedUTC": "2023-12-08T12:02:28.2587153Z"
+    "UpdatedUnix": 1702036948258
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/maiden_portrait.webp",
     "FileName": "maiden_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/maiden_portrait.webp",
     "FileSize": 159670,
-    "UpdatedUTC": "2023-11-16T15:06:48.0533959Z"
+    "UpdatedUnix": 1700147208053
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/makima_portrait.webp",
     "FileName": "makima_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/makima_portrait.webp",
     "FileSize": 58528,
-    "UpdatedUTC": "2023-11-16T15:06:52.8801486Z"
+    "UpdatedUnix": 1700147212880
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/marciana_portrait.webp",
     "FileName": "marciana_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/marciana_portrait.webp",
     "FileSize": 60160,
-    "UpdatedUTC": "2023-11-16T15:06:57.5965156Z"
+    "UpdatedUnix": 1700147217596
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/mary_bay_goddess_portrait.webp",
     "FileName": "mary_bay_goddess_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/mary_bay_goddess_portrait.webp",
     "FileSize": 130576,
-    "UpdatedUTC": "2023-11-16T15:07:09.3441018Z"
+    "UpdatedUnix": 1700147229344
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/mary_portrait.webp",
     "FileName": "mary_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/mary_portrait.webp",
     "FileSize": 81874,
-    "UpdatedUTC": "2023-11-16T15:07:02.7740654Z"
+    "UpdatedUnix": 1700147222774
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/mast_portrait.webp",
     "FileName": "mast_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/mast_portrait.webp",
     "FileSize": 208972,
-    "UpdatedUTC": "2023-11-16T15:07:16.0391834Z"
+    "UpdatedUnix": 1700147236039
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/maxwell_portrait.webp",
     "FileName": "maxwell_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/maxwell_portrait.webp",
     "FileSize": 194122,
-    "UpdatedUTC": "2023-11-16T15:07:20.9038769Z"
+    "UpdatedUnix": 1700147240903
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/mica_portrait.webp",
     "FileName": "mica_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/mica_portrait.webp",
     "FileSize": 103894,
-    "UpdatedUTC": "2023-11-16T14:24:34.2384324Z"
+    "UpdatedUnix": 1700144674238
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/mihara_portrait.webp",
     "FileName": "mihara_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/mihara_portrait.webp",
     "FileSize": 145876,
-    "UpdatedUTC": "2023-11-16T14:24:43.4391129Z"
+    "UpdatedUnix": 1700144683439
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/milk_portrait.webp",
     "FileName": "milk_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/milk_portrait.webp",
     "FileSize": 114162,
-    "UpdatedUTC": "2023-11-16T15:07:25.3603453Z"
+    "UpdatedUnix": 1700147245360
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/miranda_portrait.webp",
     "FileName": "miranda_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/miranda_portrait.webp",
     "FileSize": 102600,
-    "UpdatedUTC": "2023-11-16T15:07:32.8549203Z"
+    "UpdatedUnix": 1700147252854
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/modernia_portrait.webp",
     "FileName": "modernia_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/modernia_portrait.webp",
     "FileSize": 197038,
-    "UpdatedUTC": "2023-11-16T15:07:39.3085984Z"
+    "UpdatedUnix": 1700147259308
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/n1202_portrait.webp",
     "FileName": "n1202_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/n1202_portrait.webp",
     "FileSize": 53634,
-    "UpdatedUTC": "2023-11-16T14:25:38.8220935Z"
+    "UpdatedUnix": 1700144738822
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/naga_portrait.webp",
     "FileName": "naga_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/naga_portrait.webp",
     "FileSize": 43718,
-    "UpdatedUTC": "2023-11-16T15:07:44.8137834Z"
+    "UpdatedUnix": 1700147264813
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/neon_blue_ocean_portrait.webp",
     "FileName": "neon_blue_ocean_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/neon_blue_ocean_portrait.webp",
     "FileSize": 196608,
-    "UpdatedUTC": "2023-11-16T15:07:54.273937Z"
+    "UpdatedUnix": 1700147274273
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/neon_portrait.webp",
     "FileName": "neon_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/neon_portrait.webp",
     "FileSize": 74720,
-    "UpdatedUTC": "2023-11-16T14:25:42.9855379Z"
+    "UpdatedUnix": 1700144742985
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/nero_portrait.webp",
     "FileName": "nero_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/nero_portrait.webp",
     "FileSize": 190508,
-    "UpdatedUTC": "2023-11-16T15:07:59.7722693Z"
+    "UpdatedUnix": 1700147279772
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/neve_portrait.webp",
     "FileName": "neve_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/neve_portrait.webp",
     "FileSize": 154950,
-    "UpdatedUTC": "2023-11-16T14:25:47.3177401Z"
+    "UpdatedUnix": 1700144747317
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/nihilister_portrait.webp",
     "FileName": "nihilister_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/nihilister_portrait.webp",
     "FileSize": 298404,
-    "UpdatedUTC": "2023-11-16T15:08:07.1473004Z"
+    "UpdatedUnix": 1700147287147
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/noah_portrait.webp",
     "FileName": "noah_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/noah_portrait.webp",
     "FileSize": 145306,
-    "UpdatedUTC": "2023-11-16T15:08:11.5477279Z"
+    "UpdatedUnix": 1700147291547
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/noir_portrait.webp",
     "FileName": "noir_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/noir_portrait.webp",
     "FileSize": 152456,
-    "UpdatedUTC": "2023-11-16T15:08:16.7911532Z"
+    "UpdatedUnix": 1700147296791
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/noise_portrait.webp",
     "FileName": "noise_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/noise_portrait.webp",
     "FileSize": 152262,
-    "UpdatedUTC": "2023-11-16T15:08:21.0347467Z"
+    "UpdatedUnix": 1700147301034
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/novel_portrait.webp",
     "FileName": "novel_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/novel_portrait.webp",
     "FileSize": 96762,
-    "UpdatedUTC": "2023-11-16T15:08:25.7106133Z"
+    "UpdatedUnix": 1700147305710
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/pascal_portrait.webp",
     "FileName": "pascal_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/pascal_portrait.webp",
     "FileSize": 93010,
-    "UpdatedUTC": "2023-11-17T12:01:02.1241166Z"
+    "UpdatedUnix": 1700222462124
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/pepper_portrait.webp",
     "FileName": "pepper_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/pepper_portrait.webp",
     "FileSize": 70380,
-    "UpdatedUTC": "2023-11-16T15:08:30.5012343Z"
+    "UpdatedUnix": 1700147310501
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/poli_portrait.webp",
     "FileName": "poli_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/poli_portrait.webp",
     "FileSize": 84646,
-    "UpdatedUTC": "2023-11-16T15:08:37.1759725Z"
+    "UpdatedUnix": 1700147317175
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/power_portrait.webp",
     "FileName": "power_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/power_portrait.webp",
     "FileSize": 96484,
-    "UpdatedUTC": "2023-11-16T15:08:43.1535008Z"
+    "UpdatedUnix": 1700147323153
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/privaty_portrait.webp",
     "FileName": "privaty_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/privaty_portrait.webp",
     "FileSize": 122350,
-    "UpdatedUTC": "2023-11-16T15:08:48.4307275Z"
+    "UpdatedUnix": 1700147328430
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/product_08_portrait.webp",
     "FileName": "product_08_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/product_08_portrait.webp",
     "FileSize": 93188,
-    "UpdatedUTC": "2023-11-16T13:34:18.6898654Z"
+    "UpdatedUnix": 1700141658689
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/product_12_portrait.webp",
     "FileName": "product_12_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/product_12_portrait.webp",
     "FileSize": 114694,
-    "UpdatedUTC": "2023-11-16T13:34:24.8606587Z"
+    "UpdatedUnix": 1700141664860
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/product_23_portrait.webp",
     "FileName": "product_23_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/product_23_portrait.webp",
     "FileSize": 124424,
-    "UpdatedUTC": "2023-11-16T13:34:35.0502066Z"
+    "UpdatedUnix": 1700141675050
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/quency_portrait.webp",
     "FileName": "quency_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/quency_portrait.webp",
     "FileSize": 162752,
-    "UpdatedUTC": "2023-11-16T15:08:53.4166594Z"
+    "UpdatedUnix": 1700147333416
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/quiry_portrait.webp",
     "FileName": "quiry_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/quiry_portrait.webp",
     "FileSize": 55520,
-    "UpdatedUTC": "2023-11-16T15:08:57.5820652Z"
+    "UpdatedUnix": 1700147337582
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/rapi_portrait.webp",
     "FileName": "rapi_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/rapi_portrait.webp",
     "FileSize": 118320,
-    "UpdatedUTC": "2023-11-16T14:27:06.1723199Z"
+    "UpdatedUnix": 1700144826172
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/rapunzel_portrait.webp",
     "FileName": "rapunzel_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/rapunzel_portrait.webp",
     "FileSize": 247688,
-    "UpdatedUTC": "2023-11-16T15:09:03.2423641Z"
+    "UpdatedUnix": 1700147343242
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/red_hood_portrait.webp",
     "FileName": "red_hood_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/red_hood_portrait.webp",
     "FileSize": 114532,
-    "UpdatedUTC": "2023-11-16T15:09:08.0308083Z"
+    "UpdatedUnix": 1700147348030
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/rei_portrait.webp",
     "FileName": "rei_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/rei_portrait.webp",
     "FileSize": 124194,
-    "UpdatedUTC": "2023-11-16T15:09:12.4446168Z"
+    "UpdatedUnix": 1700147352444
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/rosanna_portrait.webp",
     "FileName": "rosanna_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/rosanna_portrait.webp",
     "FileSize": 146172,
-    "UpdatedUTC": "2023-11-16T15:09:17.4262158Z"
+    "UpdatedUnix": 1700147357426
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/rupee_portrait.webp",
     "FileName": "rupee_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/rupee_portrait.webp",
     "FileSize": 145036,
-    "UpdatedUTC": "2023-11-16T15:09:22.0487539Z"
+    "UpdatedUnix": 1700147362048
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/rupee_winter_shopper_portrait.webp",
     "FileName": "rupee_winter_shopper_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/rupee_winter_shopper_portrait.webp",
     "FileSize": 243032,
-    "UpdatedUTC": "2023-11-16T15:09:30.9687466Z"
+    "UpdatedUnix": 1700147370968
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/sakura_portrait.webp",
     "FileName": "sakura_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/sakura_portrait.webp",
     "FileSize": 129972,
-    "UpdatedUTC": "2023-11-16T15:09:36.1712197Z"
+    "UpdatedUnix": 1700147376171
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/scarlet_portrait.webp",
     "FileName": "scarlet_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/scarlet_portrait.webp",
     "FileSize": 191176,
-    "UpdatedUTC": "2023-11-16T15:09:41.5116797Z"
+    "UpdatedUnix": 1700147381511
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/signal_portrait.webp",
     "FileName": "signal_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/signal_portrait.webp",
     "FileSize": 80780,
-    "UpdatedUTC": "2023-11-16T15:09:47.1993796Z"
+    "UpdatedUnix": 1700147387199
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/sin_portrait.webp",
     "FileName": "sin_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/sin_portrait.webp",
     "FileSize": 137610,
-    "UpdatedUTC": "2023-11-16T15:09:58.1033603Z"
+    "UpdatedUnix": 1700147398103
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/snow_white_innocent_days_portrait.webp",
     "FileName": "snow_white_innocent_days_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/snow_white_innocent_days_portrait.webp",
     "FileSize": 70080,
-    "UpdatedUTC": "2023-11-16T15:11:44.0623699Z"
+    "UpdatedUnix": 1700147504062
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/snow_white_portrait.webp",
     "FileName": "snow_white_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/snow_white_portrait.webp",
     "FileSize": 379554,
-    "UpdatedUTC": "2023-11-16T15:11:29.1338763Z"
+    "UpdatedUnix": 1700147489133
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/soda_portrait.webp",
     "FileName": "soda_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/soda_portrait.webp",
     "FileSize": 160766,
-    "UpdatedUTC": "2023-11-16T15:11:53.4706241Z"
+    "UpdatedUnix": 1700147513470
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/soldier_eg_portrait.webp",
     "FileName": "soldier_eg_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/soldier_eg_portrait.webp",
     "FileSize": 98170,
-    "UpdatedUTC": "2023-11-16T13:34:43.0169818Z"
+    "UpdatedUnix": 1700141683016
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/soldier_fa_portrait.webp",
     "FileName": "soldier_fa_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/soldier_fa_portrait.webp",
     "FileSize": 121614,
-    "UpdatedUTC": "2023-11-16T13:34:49.8956553Z"
+    "UpdatedUnix": 1700141689895
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/soldier_ow_portrait.webp",
     "FileName": "soldier_ow_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/soldier_ow_portrait.webp",
     "FileSize": 76326,
-    "UpdatedUTC": "2023-11-16T13:34:56.5330874Z"
+    "UpdatedUnix": 1700141696533
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/soline_portrait.webp",
     "FileName": "soline_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/soline_portrait.webp",
     "FileSize": 151376,
-    "UpdatedUTC": "2023-11-16T15:11:59.1254326Z"
+    "UpdatedUnix": 1700147519125
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/sugar_portrait.webp",
     "FileName": "sugar_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/sugar_portrait.webp",
     "FileSize": 193826,
-    "UpdatedUTC": "2023-11-16T15:12:05.3761289Z"
+    "UpdatedUnix": 1700147525376
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/tia_portrait.webp",
     "FileName": "tia_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/tia_portrait.webp",
     "FileSize": 66052,
-    "UpdatedUTC": "2023-11-16T15:12:11.1122183Z"
+    "UpdatedUnix": 1700147531112
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/tove_portrait.webp",
     "FileName": "tove_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/tove_portrait.webp",
     "FileSize": 62506,
-    "UpdatedUTC": "2023-12-08T12:02:13.2585877Z"
+    "UpdatedUnix": 1702036933258
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/vesti_portrait.webp",
     "FileName": "vesti_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/vesti_portrait.webp",
     "FileSize": 72522,
-    "UpdatedUTC": "2023-11-16T15:12:16.5123433Z"
+    "UpdatedUnix": 1700147536512
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/viper_portrait.webp",
     "FileName": "viper_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/viper_portrait.webp",
     "FileSize": 124146,
-    "UpdatedUTC": "2023-11-16T15:12:22.2087444Z"
+    "UpdatedUnix": 1700147542208
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/volume_portrait.webp",
     "FileName": "volume_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/volume_portrait.webp",
     "FileSize": 159512,
-    "UpdatedUTC": "2023-11-16T15:12:27.1957661Z"
+    "UpdatedUnix": 1700147547195
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/yan_portrait.webp",
     "FileName": "yan_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/yan_portrait.webp",
     "FileSize": 164100,
-    "UpdatedUTC": "2023-11-16T15:12:32.8171007Z"
+    "UpdatedUnix": 1700147552817
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/yulha_portrait.webp",
     "FileName": "yulha_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/yulha_portrait.webp",
     "FileSize": 108264,
-    "UpdatedUTC": "2023-11-16T15:12:38.2822372Z"
+    "UpdatedUnix": 1700147558282
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/yuni_portrait.webp",
     "FileName": "yuni_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/yuni_portrait.webp",
     "FileSize": 94466,
-    "UpdatedUTC": "2023-11-16T15:12:43.0450719Z"
+    "UpdatedUnix": 1700147563045
   }
 ]
