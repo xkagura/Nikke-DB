@@ -1,5 +1,5 @@
 {
-  "Items": {
+  "Weapons": {
     "weapon_assault_rifle": {
       "Id": "weapon_assault_rifle",
       "WeaponType": "AR",
@@ -29,7 +29,9 @@
       "Id": "weapon_sniper_rifle",
       "WeaponType": "SR",
       "ImageUri": null
-    },
+    }
+  },
+  "Classes": {
     "attacker": {
       "Id": "attacker",
       "ClassType": "Attacker",
@@ -44,7 +46,9 @@
       "Id": "supporter",
       "ClassType": "Supporter",
       "ImageUri": null
-    },
+    }
+  },
+  "Manufacturers": {
     "elysion": {
       "Id": "elysion",
       "ManufacturerType": "Elysion",
@@ -69,7 +73,9 @@
       "Id": "abnormal",
       "ManufacturerType": "Abnormal",
       "ImageUri": null
-    },
+    }
+  },
+  "Squads": {
     "777": {
       "Id": "777",
       "SquadType": "SevenSevenSeven"
@@ -229,7 +235,9 @@
     "yorha": {
       "Id": "yorha",
       "SquadType": "YoRHa"
-    },
+    }
+  },
+  "Items": {
     "gem": {
       "Id": "gem",
       "ImageUri": null
@@ -241,56 +249,6 @@
     "credit_case_2h": {
       "Id": "credit_case_2h",
       "ImageUri": null
-    },
-    "cd_keys": [
-      {
-        "Key": "NIKKEPC",
-        "Rewards": {
-          "gem": 100
-        },
-        "Released": "2023-01-06T00:00:00",
-        "Expired": false
-      },
-      {
-        "Key": "NIKKEFOR2023",
-        "Rewards": {
-          "gem": 100
-        },
-        "Released": "2023-01-06T00:00:00",
-        "Expired": false
-      },
-      {
-        "Key": "NIKKE1104",
-        "Rewards": {
-          "credit_case_2h": 1
-        },
-        "Released": "2022-11-05T00:00:00",
-        "Expired": false
-      },
-      {
-        "Key": "NIKKE2023",
-        "Rewards": {
-          "gem": 100
-        },
-        "Released": "2022-12-15T00:00:00",
-        "Expired": false
-      },
-      {
-        "Key": "NIKKE777",
-        "Rewards": {
-          "gem": 100
-        },
-        "Released": "2022-11-05T00:00:00",
-        "Expired": false
-      },
-      {
-        "Key": "NIKKEFORYOU",
-        "Rewards": {
-          "credit_case_2h": 1
-        },
-        "Released": "2022-11-05T00:00:00",
-        "Expired": false
-      }
-    ]
+    }
   }
 }
