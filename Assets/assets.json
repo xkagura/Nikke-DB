@@ -4,14 +4,14 @@
     "FileName": "character_database.json",
     "LocalPath": "Databases/character_database.json",
     "FileSize": 39749,
-    "UpdatedUnix": 1704496544784
+    "UpdatedUnix": 1704645151354
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Databases/nikke_database.json",
     "FileName": "nikke_database.json",
     "LocalPath": "Databases/nikke_database.json",
     "FileSize": 5453,
-    "UpdatedUnix": 1704496544789
+    "UpdatedUnix": 1704645151359
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Burst%20Stages/icon_burst_1.webp",
@@ -158,21 +158,21 @@
     "FileName": "app_localization_en.json",
     "LocalPath": "Localizations/EN/app_localization_en.json",
     "FileSize": 145,
-    "UpdatedUnix": 1704496544790
+    "UpdatedUnix": 1704645151360
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Localizations/EN/character_localization_en.json",
     "FileName": "character_localization_en.json",
     "LocalPath": "Localizations/EN/character_localization_en.json",
     "FileSize": 25793,
-    "UpdatedUnix": 1704496544797
+    "UpdatedUnix": 1704645151367
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Localizations/EN/nikke_localization_en.json",
     "FileName": "nikke_localization_en.json",
     "LocalPath": "Localizations/EN/nikke_localization_en.json",
     "FileSize": 14731,
-    "UpdatedUnix": 1704496544795
+    "UpdatedUnix": 1704645151365
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/2b_icon.webp",
