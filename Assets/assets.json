@@ -4,14 +4,14 @@
     "FileName": "character_database.json",
     "LocalPath": "Databases/character_database.json",
     "FileSize": 39749,
-    "UpdatedUnix": 1704646296670
+    "UpdatedUnix": 1704648045869
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Databases/nikke_database.json",
     "FileName": "nikke_database.json",
     "LocalPath": "Databases/nikke_database.json",
     "FileSize": 5453,
-    "UpdatedUnix": 1704646296676
+    "UpdatedUnix": 1704648045874
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Burst%20Stages/icon_burst_1.webp",
@@ -91,6 +91,13 @@
     "UpdatedUnix": 1700229735684
   },
   {
+    "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Icons/icon_unknown.svg",
+    "FileName": "icon_unknown.svg",
+    "LocalPath": "Images/Icons/icon_unknown.svg",
+    "FileSize": 659,
+    "UpdatedUnix": 1704647825822
+  },
+  {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Items/item_credit.webp",
     "FileName": "item_credit.webp",
     "LocalPath": "Images/Items/item_credit.webp",
@@ -158,35 +165,21 @@
     "FileName": "app_localization_en.json",
     "LocalPath": "Localizations/EN/app_localization_en.json",
     "FileSize": 145,
-    "UpdatedUnix": 1704646296677
+    "UpdatedUnix": 1704648045875
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Localizations/EN/character_localization_en.json",
     "FileName": "character_localization_en.json",
     "LocalPath": "Localizations/EN/character_localization_en.json",
     "FileSize": 25793,
-    "UpdatedUnix": 1704646296682
+    "UpdatedUnix": 1704648045881
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Localizations/EN/nikke_localization_en.json",
     "FileName": "nikke_localization_en.json",
     "LocalPath": "Localizations/EN/nikke_localization_en.json",
     "FileSize": 14731,
-    "UpdatedUnix": 1704646296681
-  },
-  {
-    "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/2b_icon.webp",
-    "FileName": "2b_icon.webp",
-    "LocalPath": "Images/Characters/Icon/2b_icon.webp",
-    "FileSize": 9580,
-    "UpdatedUnix": 1700222104209
-  },
-  {
-    "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/a2_icon.webp",
-    "FileName": "a2_icon.webp",
-    "LocalPath": "Images/Characters/Icon/a2_icon.webp",
-    "FileSize": 6462,
-    "UpdatedUnix": 1700221918281
+    "UpdatedUnix": 1704648045879
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/admi_icon.webp",
@@ -894,6 +887,20 @@
     "LocalPath": "Images/Characters/Icon/yan_icon.webp",
     "FileSize": 15036,
     "UpdatedUnix": 1700221250754
+  },
+  {
+    "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/yorha_2b_icon.webp",
+    "FileName": "yorha_2b_icon.webp",
+    "LocalPath": "Images/Characters/Icon/yorha_2b_icon.webp",
+    "FileSize": 9580,
+    "UpdatedUnix": 1700222104209
+  },
+  {
+    "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/yorha_a2_icon.webp",
+    "FileName": "yorha_a2_icon.webp",
+    "LocalPath": "Images/Characters/Icon/yorha_a2_icon.webp",
+    "FileSize": 6462,
+    "UpdatedUnix": 1700221918281
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/yulha_icon.webp",
