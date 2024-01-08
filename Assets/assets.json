@@ -3,15 +3,15 @@
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Databases/character_database.json",
     "FileName": "character_database.json",
     "LocalPath": "Databases/character_database.json",
-    "FileSize": 39749,
-    "UpdatedUnix": 1704671746002
+    "FileSize": 33864,
+    "UpdatedUnix": 1704673269744
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Databases/nikke_database.json",
     "FileName": "nikke_database.json",
     "LocalPath": "Databases/nikke_database.json",
-    "FileSize": 5453,
-    "UpdatedUnix": 1704671746007
+    "FileSize": 5103,
+    "UpdatedUnix": 1704673269749
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Burst%20Stages/icon_burst_1.webp",
@@ -119,6 +119,41 @@
     "UpdatedUnix": 1703787594263
   },
   {
+    "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Manufacturers/manufacturer_abnormal.webp",
+    "FileName": "manufacturer_abnormal.webp",
+    "LocalPath": "Images/Manufacturers/manufacturer_abnormal.webp",
+    "FileSize": 8190,
+    "UpdatedUnix": 1703122170900
+  },
+  {
+    "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Manufacturers/manufacturer_elysion.webp",
+    "FileName": "manufacturer_elysion.webp",
+    "LocalPath": "Images/Manufacturers/manufacturer_elysion.webp",
+    "FileSize": 4686,
+    "UpdatedUnix": 1703122159441
+  },
+  {
+    "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Manufacturers/manufacturer_missilis.webp",
+    "FileName": "manufacturer_missilis.webp",
+    "LocalPath": "Images/Manufacturers/manufacturer_missilis.webp",
+    "FileSize": 1192,
+    "UpdatedUnix": 1703122164885
+  },
+  {
+    "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Manufacturers/manufacturer_pilgrim.webp",
+    "FileName": "manufacturer_pilgrim.webp",
+    "LocalPath": "Images/Manufacturers/manufacturer_pilgrim.webp",
+    "FileSize": 4660,
+    "UpdatedUnix": 1703122168977
+  },
+  {
+    "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Manufacturers/manufacturer_tetra.webp",
+    "FileName": "manufacturer_tetra.webp",
+    "LocalPath": "Images/Manufacturers/manufacturer_tetra.webp",
+    "FileSize": 1246,
+    "UpdatedUnix": 1703122167219
+  },
+  {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Weapons/weapon_assault_rifle.webp",
     "FileName": "weapon_assault_rifle.webp",
     "LocalPath": "Images/Weapons/weapon_assault_rifle.webp",
@@ -165,21 +200,21 @@
     "FileName": "app_localization_en.json",
     "LocalPath": "Localizations/EN/app_localization_en.json",
     "FileSize": 145,
-    "UpdatedUnix": 1704671746008
+    "UpdatedUnix": 1704673269750
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Localizations/EN/character_localization_en.json",
     "FileName": "character_localization_en.json",
     "LocalPath": "Localizations/EN/character_localization_en.json",
     "FileSize": 25793,
-    "UpdatedUnix": 1704671746013
+    "UpdatedUnix": 1704673269756
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Localizations/EN/nikke_localization_en.json",
     "FileName": "nikke_localization_en.json",
     "LocalPath": "Localizations/EN/nikke_localization_en.json",
     "FileSize": 14731,
-    "UpdatedUnix": 1704671746012
+    "UpdatedUnix": 1704673269754
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/admi_icon.webp",
@@ -543,7 +578,7 @@
     "FileName": "mica_snow_buddy_icon.webp",
     "LocalPath": "Images/Characters/Icon/mica_snow_buddy_icon.webp",
     "FileSize": 5928,
-    "UpdatedUnix": 1703073214809
+    "UpdatedUnix": 1704671867928
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Icon/mihara_icon.webp",
@@ -1299,7 +1334,7 @@
     "FileName": "mica_snow_buddy_portrait.webp",
     "LocalPath": "Images/Characters/Portrait/mica_snow_buddy_portrait.webp",
     "FileSize": 89634,
-    "UpdatedUnix": 1703073228559
+    "UpdatedUnix": 1704671880711
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/Nikke-DB/main/Assets/Images/Characters/Portrait/mihara_portrait.webp",

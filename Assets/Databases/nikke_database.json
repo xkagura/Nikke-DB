@@ -2,77 +2,63 @@
   "Weapons": {
     "weapon_assault_rifle": {
       "Id": "weapon_assault_rifle",
-      "WeaponType": "AR",
-      "ImageUri": null
+      "WeaponType": "AR"
     },
     "weapon_machine_gun": {
       "Id": "weapon_machine_gun",
-      "WeaponType": "MG",
-      "ImageUri": null
+      "WeaponType": "MG"
     },
     "weapon_rocket_launcher": {
       "Id": "weapon_rocket_launcher",
-      "WeaponType": "RL",
-      "ImageUri": null
+      "WeaponType": "RL"
     },
     "weapon_shotgun": {
       "Id": "weapon_shotgun",
-      "WeaponType": "SG",
-      "ImageUri": null
+      "WeaponType": "SG"
     },
     "weapon_submachine_gun": {
       "Id": "weapon_submachine_gun",
-      "WeaponType": "SMG",
-      "ImageUri": null
+      "WeaponType": "SMG"
     },
     "weapon_sniper_rifle": {
       "Id": "weapon_sniper_rifle",
-      "WeaponType": "SR",
-      "ImageUri": null
+      "WeaponType": "SR"
     }
   },
   "Classes": {
     "attacker": {
       "Id": "attacker",
-      "ClassType": "Attacker",
-      "ImageUri": null
+      "ClassType": "Attacker"
     },
     "defender": {
       "Id": "defender",
-      "ClassType": "Defender",
-      "ImageUri": null
+      "ClassType": "Defender"
     },
     "supporter": {
       "Id": "supporter",
-      "ClassType": "Supporter",
-      "ImageUri": null
+      "ClassType": "Supporter"
     }
   },
   "Manufacturers": {
     "elysion": {
       "Id": "elysion",
-      "ManufacturerType": "Elysion",
-      "ImageUri": null
+      "ManufacturerType": "Elysion"
     },
     "missilis": {
       "Id": "missilis",
-      "ManufacturerType": "Missilis",
-      "ImageUri": null
+      "ManufacturerType": "Missilis"
     },
     "tetra": {
       "Id": "tetra",
-      "ManufacturerType": "Tetra",
-      "ImageUri": null
+      "ManufacturerType": "Tetra"
     },
     "pilgrim": {
       "Id": "pilgrim",
-      "ManufacturerType": "Pilgrim",
-      "ImageUri": null
+      "ManufacturerType": "Pilgrim"
     },
     "abnormal": {
       "Id": "abnormal",
-      "ManufacturerType": "Abnormal",
-      "ImageUri": null
+      "ManufacturerType": "Abnormal"
     }
   },
   "Squads": {
